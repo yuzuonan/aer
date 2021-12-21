@@ -1,11 +1,5 @@
 点播：
 全站,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
-腾讯,http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/,解析
-优酷,http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/,解析
-奇艺,http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/,解析
-芒果,http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/,解析
-搜狐,http://zy.yilans.net:8090/api.php/provide/vod/from/sohu/at/xml/,解析
-乐视,http://zy.yilans.net:8090/api.php/provide/vod/from/letv/at/xml/,解析
 聚力,http://zy.yilans.net:8090/api.php/provide/vod/from/pptv/at/xml/,解析
 全站,http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/,解析
 qq,http://www.zycaiji.net:7788/api.php/provide/vod/from/qq/at/xml/,解析
