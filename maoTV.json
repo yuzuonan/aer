@@ -4060,12 +4060,24 @@
           "urls": [
             "https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8"
           ]
+        },
+        {
+          "name": "Disney",
+          "urls": [
+            "http://220.135.55.74:8505/live.m3u8"
+          ]
         }
       ]
     },
     {
       "group": "乱播",
       "channels": [
+        {
+          "name": "蠟筆小新",
+          "urls": [
+            "http://121.12.115.158:80/txdirect.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8"
+          ]
+        },
         {
           "name": "青塘电影院1",
           "urls": [
