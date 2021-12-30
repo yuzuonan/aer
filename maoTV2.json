@@ -31,13 +31,42 @@
       "ext": "B9C8093A210EADA1"
     },
     {
+      "key": "wgyy_spider",
+      "name": "乌龟影视(FV0)",
+      "type": 3,
+      "api": "csp_Wgyy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "dfcd0b28-56b4-5313-9ce2-7e9f0857186f"
+    },
+    {
+      "key": "gdyy_spider",
+      "name": "孤单影视(FV0)",
+      "type": 3,
+      "api": "csp_Gdyy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "00c8ce12-fece-5bd8-90d8-04ae99099644"
+    },
+    {
+      "key": "epang_spider",
+      "name": "阿房App(SP)",
+      "type": 3,
+      "api": "csp_EPangApp",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "ikan_spider",
       "name": "爱看(SP)",
       "type": 3,
       "api": "csp_IKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "A9545C889B5D"
     },
     {
@@ -2206,134 +2235,19 @@
       "url": "Cucumber"
     },
     {
-      "name": "雨果影视",
+      "name": "萌蛋蛋",
       "type": 1,
-      "url": "http://103.40.246.5:6881/ijsonononxxt/?url="
+      "url": "https://svip.renrenmi.cc:2222/api/?key=LorFAswZzr3sGNI0YU&url="
     },
     {
-      "name": "555TV",
-      "type": 1,
-      "url": "https://api.parwix.com:4433/analysis/json/?uid=1752&my=fhlwyABGHJLNRX1489&url="
-    },
-    {
-      "name": "绿箭影视",
-      "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url="
-    },
-    {
-      "name": "Vip影院",
-      "type": 1,
-      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bcgkmntABFHILRX057&url="
-    },
-    {
-      "name": "琳琅影视",
-      "type": 1,
-      "url": "https://api.parwix.com:4433/analysis/json/?uid=1846&my=opsuvwBEHIJKNQSW09&url="
-    },
-    {
-      "name": "看剧吧1",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url="
-    },
-    {
-      "name": "影阅阁3",
+      "name": "影阅阁2",
       "type": 1,
       "url": "https://svip.renrenmi.cc:2222/api/?key=82KErJogweliHPt7Yp&url="
     },
     {
-      "name": "追剧吧4",
+      "name": "看剧吧",
       "type": 1,
-      "url": "http://47.100.138.210:91/home/api?type=ys&uid=3567682&key=adjmqrxCGJNOQTUWX8&url="
-    },
-    {
-      "name": "追剧吧5",
-      "type": 1,
-      "url": "http://47.100.138.210:91/home/api?type=ys&uid=715391&key=bdltvyACHKLQX01789&url="
-    },
-    {
-      "name": "雪人影视",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url="
-    },
-    {
-      "name": "雨果影视1",
-      "type": 1,
-      "url": "http://47.100.138.210:91/home/api?type=ys&uid=349825&key=bekqtuBDKMNPQSXY24&url="
-    },
-    {
-      "name": "饭后电影",
-      "type": 1,
-      "url": "http://47.100.138.210:91/home/api?type=ys&uid=1947441&key=eghijmopwyGQSTUW59&url="
-    },
-    {
-      "name": "阿姨追剧",
-      "type": 1,
-      "url": "http://47.100.138.210:91/home/api?type=ys&uid=2867314&key=deipsuvyGIKLORSV47&url="
-    },
-    {
-      "name": "段友影视1",
-      "type": 1,
-      "url": "http://svip.jhdyw.vip:3456/jhyun.php?url="
-    },
-    {
-      "name": "林谷影视",
-      "type": 1,
-      "url": "http://jifei.zjzy.pro:5656/home/api?type=ys&uid=413812&key=cejuwyABEGHINP0267&url="
-    },
-    {
-      "name": "小极影视",
-      "type": 1,
-      "url": "http://119.29.145.154:9999/appjson/1.php?url="
-    },
-    {
-      "name": "南府影视",
-      "type": 1,
-      "url": "http://play.szbodankyy.com/cnmb/?url="
-    },
-    {
-      "name": "艾特影视",
-      "type": 1,
-      "url": "http://kelejiexi.aitee.cc/api/?key=Q5eOz72aSDAfZgbZit&url="
-    },
-    {
-      "name": "爱影视",
-      "type": 1,
-      "url": "http://jx.vjiangbei.com/home/api?type=ys&uid=281459&key=bdhjkosvBEFGNWXZ49&url="
-    },
-    {
-      "name": "抹茶猪2",
-      "type": 1,
-      "url": "https://supervip.rongxingvr.cn:8866/api/?key=41UviJ16T6DndnSpZr&url="
-    },
-    {
-      "name": "抹茶猪",
-      "type": 1,
-      "url": "https://svip.renrenmi.cc:2222/api/?key=mmh63jk67yRHfWc8lE&url="
-    },
-    {
-      "name": "月色影视",
-      "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url="
-    },
-    {
-      "name": "4K影院1",
-      "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
-    },
-    {
-      "name": "土豆TV",
-      "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=mqGHkqM4qxhV5ddEzg&url="
-    },
-    {
-      "name": "段友影视",
-      "type": 1,
-      "url": "http://1.12.218.245/1696263602.php/?url="
-    },
-    {
-      "name": "播放呀",
-      "type": 1,
-      "url": "https://i.hexh.ink/home/api?type=ys&uid=1767561&key=bdelmsvwBDEHMNQXYZ&url="
+      "url": "https://svip.renrenmi.cc:2222/api/?key=fI3YQ3vxF5uREfNpDU&url="
     },
     {
       "name": "蓝光视频",
@@ -2341,59 +2255,149 @@
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
     },
     {
+      "name": "绿箭影视",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url="
+    },
+    {
+      "name": "麻瓜视频",
+      "type": 1,
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=egkqvxzBEHPQSUWX28&url="
+    },
+    {
+      "name": "影阅阁1",
+      "type": 1,
+      "url": "https://json.pangujiexi.com:12345/json.php?url="
+    },
+    {
+      "name": "南府影视",
+      "type": 1,
+      "url": "http://play.szbodankyy.com/cnmb111/?url="
+    },
+    {
+      "name": "小强TV",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=867242&key=acjksAGHJMPQTY3567&url="
+    },
+    {
+      "name": "雨果影视",
+      "type": 1,
+      "url": "http://103.40.246.5:6881/ijsonononxxt/?url="
+    },
+    {
+      "name": "DC影视",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url="
+    },
+    {
+      "name": "影阅阁3",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url="
+    },
+    {
       "name": "筋斗云",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="
     },
     {
-      "name": "追剧吧2",
+      "name": "艾特影视",
       "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=YWgNNsISMq3Au9YhcH&url="
+      "url": "http://159.75.45.225:12588/?url="
     },
     {
-      "name": "看剧吧",
+      "name": "4K影院1",
       "type": 1,
-      "url": "http://vip.mengx.vip/home/api?type=ys&uid=3714324&key=adhmprtwyzBCHLSUX1&url="
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="
     },
     {
-      "name": "小强TV",
+      "name": "追剧吧",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=867242&key=bchmpswDGLOQTXZ168&url="
+      "url": "https://www.lengyue.app/hdsfajdkljlasjklsaj/?url="
     },
     {
-      "name": "段友影视",
+      "name": "Yoyo",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url="
+      "url": "http://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url="
     },
     {
-      "name": "抹茶猪1",
+      "name": "追剧吧3",
+      "type": 1,
+      "url": "http://47.100.138.210:91/home/api?type=ys&uid=715391&key=bdltvyACHKLQX01789&url="
+    },
+    {
+      "name": "阿姨追剧",
+      "type": 1,
+      "url": "http://47.100.138.210:91/home/api?type=ys&uid=2867314&key=ntyzDEGHPQVW234789&url="
+    },
+    {
+      "name": "手指影视",
+      "type": 1,
+      "url": "http://a.dxzj88.com/jhjson/?url="
+    },
+    {
+      "name": "二九影视",
+      "type": 1,
+      "url": "http://47.94.137.151:8089/?url="
+    },
+    {
+      "name": "黄河影视",
+      "type": 1,
+      "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
+    },
+    {
+      "name": "雨果影视1",
       "type": 1,
       "url": "https://json.nbjx.vip:4399/?wap=0&url="
     },
     {
-      "name": "疯狂看",
+      "name": "优视影视",
       "type": 1,
-      "url": "https://a.zhuijula.top/yun_api.php?url="
+      "url": "http://ccc.ysys.asia/jx/?id=2&url="
     },
     {
-      "name": "追剧吧1",
+      "name": "星影相随1",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url="
+      "url": "https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="
     },
     {
-      "name": "快云影音",
+      "name": "抹茶猪",
       "type": 1,
-      "url": "http://mxjx.ptygx.com/mxjson.php/?url="
+      "url": "https://svip.renrenmi.cc:2222/api/?key=81gnuXCwZK9IZxt8bU&url="
     },
     {
-      "name": "麻瓜视频",
+      "name": "筋斗云1",
       "type": 1,
-      "url": "https://www.t7g.cn/api/?key=11ZQE5nh363ZFdhrs9&url="
+      "url": "https://fast.rongxingvr.cn:8866/api/?key=nrR7koAyq9ajKId4nC&url="
     },
     {
-      "name": "林谷影视1",
+      "name": "看剧吧1",
       "type": 1,
-      "url": "http://jf.lemiaoyun.cn/home/api?type=ys&uid=40190120&key=bklmnprxCJLOQSTVX0&url="
+      "url": "http://47.100.138.210:91/home/api?type=ys&uid=243653&key=kqswxyABGHKLQSV127&url="
+    },
+    {
+      "name": "麻瓜视频1",
+      "type": 1,
+      "url": "https://jhjx.ptygx.com/xttyjx.php/?url="
+    },
+    {
+      "name": "看剧吧2",
+      "type": 1,
+      "url": "https://fast.rongxingvr.cn:8866/api/?key=G0KF039jDQWlMHMf5z&url="
+    },
+    {
+      "name": "星辰视频",
+      "type": 1,
+      "url": "https://cs.024zs.com:4433/api/?key=2yqrXys9F3TcDiRz3k&url="
+    },
+    {
+      "name": "阿姨追剧1",
+      "type": 1,
+      "url": "https://cs.024zs.com:4433/api/?key=P3lAZ3QJlv6KBNNLHM&url="
+    },
+    {
+      "name": "爱影视",
+      "type": 1,
+      "url": "http://json.iqtv.tv/json.php?id=syhdjjjelxu66&url="
     },
     {
       "name": "影阅阁",
@@ -2401,9 +2405,34 @@
       "url": "http://api1.json.vin:4433/api/?key=WPDh6vf0aT0ahepWzW&url="
     },
     {
+      "name": "神马影院",
+      "type": 1,
+      "url": "https://jhpc.manduhu.com/j1217.php?url="
+    },
+    {
+      "name": "瑞丰资源",
+      "type": 1,
+      "url": "https://cs.024zs.com:4433/api/?key=BKJ8LHmu8n9SD4Tou7&url="
+    },
+    {
+      "name": "阿姨追剧3",
+      "type": 1,
+      "url": "http://json.qd234.cn/home/api?type=ys&uid=353067&key=bghmnoxBIKORUV1269&url="
+    },
+    {
+      "name": "疯狂看",
+      "type": 1,
+      "url": "https://a.zhuijula.top/yun_api.php?url="
+    },
+    {
+      "name": "Yoyo1",
+      "type": 1,
+      "url": "https://json.legendwhb.cn/znjson.php/?url="
+    },
+    {
       "name": "Preference",
       "type": 1,
-      "url": "qq#段友影视$$抹茶猪1$$雪人影视$$小强TV$$追剧吧4$$555TV$$雨果影视$$琳琅影视$$Vip影院$$影阅阁3$$看剧吧1$$阿姨追剧$$雨果影视1$$饭后电影$$南府影视$$小极影视$$林谷影视$$爱影视$$艾特影视$$抹茶猪$$绿箭影视$$抹茶猪2$$土豆TV$$播放呀$$月色影视$$4K影院1$$追剧吧2$$段友影视1$$筋斗云$$追剧吧1$$疯狂看$$看剧吧$$蓝光视频$$快云影音$$麻瓜视频$$林谷影视1$$影阅阁||bl#Vip影院$$看剧吧1$$影阅阁3$$追剧吧4$$琳琅影视$$追剧吧5$$雨果影视$$雪人影视$$雨果影视1$$饭后电影$$阿姨追剧$$段友影视1$$南府影视$$小极影视$$艾特影视$$爱影视$$抹茶猪$$抹茶猪2$$土豆TV$$播放呀$$4K影院1$$月色影视$$追剧吧2$$筋斗云$$段友影视$$小强TV$$追剧吧1$$蓝光视频$$林谷影视1$$影阅阁$$555TV$$麻瓜视频||mg#雨果影视$$555TV$$琳琅影视$$Vip影院$$追剧吧5$$绿箭影视$$影阅阁3$$看剧吧1$$雨果影视1$$饭后电影$$雪人影视$$阿姨追剧$$段友影视1$$南府影视$$小极影视$$艾特影视$$爱影视$$林谷影视$$抹茶猪$$4K影院1$$月色影视$$抹茶猪2$$段友影视$$蓝光视频$$土豆TV$$筋斗云$$追剧吧2$$小强TV$$抹茶猪1$$看剧吧$$播放呀$$追剧吧1$$疯狂看$$快云影音$$林谷影视1$$麻瓜视频$$影阅阁$$追剧吧4||pp#琳琅影视$$绿箭影视$$雨果影视$$Vip影院$$555TV$$雪人影视$$看剧吧1$$影阅阁3$$追剧吧4$$追剧吧5$$饭后电影$$雨果影视1$$阿姨追剧$$段友影视1$$南府影视$$艾特影视$$爱影视$$抹茶猪$$抹茶猪2$$林谷影视$$4K影院1$$小极影视$$土豆TV$$月色影视$$段友影视$$筋斗云$$蓝光视频$$播放呀$$追剧吧2$$看剧吧$$小强TV$$疯狂看$$追剧吧1$$快云影音$$林谷影视1$$影阅阁$$麻瓜视频||qy#琳琅影视$$Vip影院$$555TV$$雨果影视$$影阅阁3$$看剧吧1$$雪人影视$$绿箭影视$$林谷影视$$南府影视$$抹茶猪$$小极影视$$艾特影视$$蓝光视频$$段友影视$$筋斗云$$小强TV$$土豆TV$$抹茶猪1$$追剧吧1$$疯狂看$$看剧吧$$麻瓜视频$$快云影音$$播放呀$$追剧吧2||1905#看剧吧1$$影阅阁3$$追剧吧4$$饭后电影$$追剧吧5$$雨果影视1$$阿姨追剧$$雪人影视$$段友影视1$$小极影视$$艾特影视$$爱影视$$抹茶猪$$林谷影视$$抹茶猪2$$土豆TV$$播放呀$$追剧吧2$$看剧吧$$抹茶猪1$$快云影音$$影阅阁$$林谷影视1||yk#555TV$$Vip影院$$雨果影视$$琳琅影视$$影阅阁3$$看剧吧1$$雪人影视$$追剧吧4$$饭后电影$$追剧吧5$$阿姨追剧$$雨果影视1$$林谷影视$$小极影视$$南府影视$$段友影视1$$爱影视$$抹茶猪$$艾特影视$$抹茶猪2$$土豆TV$$4K影院1$$月色影视$$段友影视$$筋斗云$$追剧吧2$$蓝光视频$$抹茶猪1$$小强TV$$播放呀$$看剧吧$$追剧吧1$$快云影音$$林谷影视1$$影阅阁$$疯狂看||sh#雨果影视$$555TV$$琳琅影视$$Vip影院$$绿箭影视$$追剧吧4$$饭后电影$$雨果影视1$$阿姨追剧$$追剧吧5$$南府影视$$小极影视$$爱影视$$抹茶猪2$$艾特影视$$4K影院1$$土豆TV$$月色影视$$段友影视$$蓝光视频$$筋斗云$$追剧吧2$$播放呀$$小强TV$$疯狂看$$追剧吧1$$林谷影视1$$麻瓜视频||cctv#雨果影视$$555TV$$Vip影院$$绿箭影视$$琳琅影视$$看剧吧1$$追剧吧4$$影阅阁3$$雪人影视$$饭后电影$$阿姨追剧$$雨果影视1$$南府影视$$林谷影视$$追剧吧5$$小极影视$$艾特影视$$抹茶猪$$爱影视$$土豆TV$$4K影院1$$段友影视$$月色影视$$蓝光视频$$筋斗云$$追剧吧2$$播放呀$$小强TV$$追剧吧1$$快云影音$$抹茶猪1$$林谷影视1$$影阅阁$$看剧吧$$麻瓜视频||mp#绿箭影视$$林谷影视$$4K影院1$$月色影视$$蓝光视频$$筋斗云$$播放呀$$小强TV$$追剧吧1$$抹茶猪1||le#追剧吧4$$追剧吧5$$雨果影视1$$饭后电影$$阿姨追剧$$林谷影视$$小极影视$$艾特影视$$爱影视$$播放呀$$土豆TV$$追剧吧2$$疯狂看$$林谷影视1$$影阅阁||ac#追剧吧5$$追剧吧4$$雨果影视1$$饭后电影$$阿姨追剧$$小极影视$$艾特影视$$爱影视$$土豆TV$$播放呀$$追剧吧2||migu#绿箭影视$$4K影院1$$段友影视$$蓝光视频$$筋斗云$$小强TV$$土豆TV$$追剧吧1$$麻瓜视频$$追剧吧2$$播放呀"
+      "url": "bl#看剧吧$$萌蛋蛋$$影阅阁2$$麻瓜视频$$南府影视$$雨果影视$$DC影视$$小强TV$$筋斗云$$艾特影视$$4K影院1$$Yoyo$$追剧吧$$追剧吧3$$阿姨追剧$$手指影视$$绿箭影视$$二九影视$$抹茶猪$$筋斗云1$$看剧吧1$$看剧吧2$$麻瓜视频1$$星辰视频$$阿姨追剧1$$爱影视$$神马影院$$瑞丰资源$$疯狂看$$Yoyo1||mg#萌蛋蛋$$影阅阁2$$看剧吧$$绿箭影视$$蓝光视频$$麻瓜视频$$南府影视$$雨果影视$$DC影视$$小强TV$$4K影院1$$筋斗云$$艾特影视$$影阅阁1$$追剧吧$$Yoyo$$追剧吧3$$阿姨追剧$$手指影视$$黄河影视$$雨果影视1$$二九影视$$抹茶猪$$筋斗云1$$看剧吧1$$看剧吧2$$麻瓜视频1$$星辰视频$$阿姨追剧1$$影阅阁$$爱影视$$瑞丰资源$$阿姨追剧3$$神马影院$$疯狂看$$Yoyo1||pp#看剧吧$$萌蛋蛋$$影阅阁1$$影阅阁2$$麻瓜视频$$南府影视$$雨果影视$$艾特影视$$追剧吧$$追剧吧3$$Yoyo$$阿姨追剧$$二九影视$$手指影视$$黄河影视$$抹茶猪$$雨果影视1$$看剧吧1$$麻瓜视频1$$筋斗云1$$看剧吧2$$阿姨追剧1$$星辰视频$$神马影院$$瑞丰资源$$疯狂看$$影阅阁$$Yoyo1||qy#影阅阁2$$萌蛋蛋$$看剧吧$$麻瓜视频$$南府影视$$雨果影视$$小强TV$$绿箭影视$$DC影视$$影阅阁3$$筋斗云$$蓝光视频$$4K影院1$$追剧吧$$影阅阁1$$艾特影视$$Yoyo$$追剧吧3$$黄河影视$$手指影视$$二九影视$$抹茶猪$$优视影视$$星影相随1$$麻瓜视频1$$筋斗云1$$看剧吧1$$看剧吧2$$阿姨追剧1$$星辰视频$$影阅阁$$神马影院$$瑞丰资源$$雨果影视1$$疯狂看$$阿姨追剧3$$Yoyo1||1905#影阅阁2$$看剧吧$$萌蛋蛋$$麻瓜视频$$南府影视$$筋斗云$$艾特影视$$追剧吧$$雨果影视$$Yoyo$$追剧吧3$$阿姨追剧$$手指影视$$二九影视$$抹茶猪$$看剧吧1$$麻瓜视频1$$阿姨追剧1$$星辰视频$$影阅阁$$瑞丰资源$$Yoyo1||yk#看剧吧$$萌蛋蛋$$影阅阁2$$影阅阁1$$DC影视$$筋斗云$$影阅阁3$$蓝光视频$$4K影院1$$艾特影视$$小强TV$$Yoyo$$追剧吧3$$阿姨追剧$$手指影视$$黄河影视$$抹茶猪$$星影相随1$$筋斗云1$$二九影视$$看剧吧1$$看剧吧2$$麻瓜视频1$$优视影视$$阿姨追剧1$$瑞丰资源$$阿姨追剧3$$疯狂看$$星辰视频$$神马影院$$Yoyo1$$影阅阁||sh#麻瓜视频$$影阅阁1$$南府影视$$雨果影视$$绿箭影视$$小强TV$$艾特影视$$4K影院1$$追剧吧$$筋斗云$$Yoyo$$追剧吧3$$手指影视$$阿姨追剧$$黄河影视$$二九影视$$星影相随1$$看剧吧1$$筋斗云1$$麻瓜视频1$$看剧吧2$$星辰视频$$阿姨追剧1$$DC影视$$瑞丰资源$$阿姨追剧3$$疯狂看$$神马影院$$Yoyo1||cctv#萌蛋蛋$$看剧吧$$麻瓜视频$$影阅阁2$$南府影视$$雨果影视$$影阅阁1$$DC影视$$影阅阁3$$艾特影视$$小强TV$$4K影院1$$追剧吧$$蓝光视频$$绿箭影视$$追剧吧3$$Yoyo$$阿姨追剧$$雨果影视1$$黄河影视$$二九影视$$星影相随1$$抹茶猪$$看剧吧1$$麻瓜视频1$$星辰视频$$手指影视$$影阅阁$$阿姨追剧1$$瑞丰资源$$神马影院$$阿姨追剧3$$优视影视$$Yoyo1||qq#星辰视频$$瑞丰资源$$影阅阁$$阿姨追剧1$$看剧吧1$$麻瓜视频1$$雨果影视1$$阿姨追剧$$Yoyo$$手指影视$$追剧吧3$$艾特影视$$影阅阁2$$萌蛋蛋$$看剧吧$$麻瓜视频$$南府影视$$雨果影视$$小强TV$$影阅阁1$$DC影视$$筋斗云$$追剧吧$$4K影院1$$二九影视$$黄河影视$$抹茶猪$$筋斗云1$$看剧吧2$$优视影视$$星影相随1$$疯狂看$$Yoyo1$$神马影院$$阿姨追剧3||mp#影阅阁1$$小强TV$$绿箭影视$$DC影视$$影阅阁3$$4K影院1$$二九影视$$雨果影视1$$优视影视$$神马影院$$阿姨追剧3||le#麻瓜视频$$南府影视$$雨果影视$$艾特影视$$追剧吧$$Yoyo$$追剧吧3$$阿姨追剧$$手指影视$$筋斗云1$$看剧吧1$$麻瓜视频1$$看剧吧2$$星辰视频$$阿姨追剧1$$神马影院$$瑞丰资源$$Yoyo1||ac#艾特影视$$Yoyo$$追剧吧3$$阿姨追剧$$手指影视$$看剧吧1$$麻瓜视频1$$星辰视频$$阿姨追剧1$$瑞丰资源$$神马影院$$爱影视||migu#影阅阁1$$绿箭影视$$蓝光视频$$筋斗云$$影阅阁3$$4K影院1$$小强TV$$DC影视$$黄河影视$$二九影视$$星影相随1$$阿姨追剧3$$星辰视频$$瑞丰资源$$阿姨追剧1"
     }
   ],
   "flags": [
@@ -2640,5 +2669,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://gitee.com/yuzuonan/ah-er/raw/master/main_spider.txt"
+  "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt;md5;185bb5fe13cc1ff8cf2a2afbe24a0186"
 }
