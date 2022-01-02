@@ -1,32 +1,6 @@
 {
   "sites": [
     {
-      "key": "人人迷",
-      "name": "人人迷",
-      "type": 1,
-      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.renrenmi.cc/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "剧情片",
-        "战争片",
-        "恐怖片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "其他剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
       "key": "csp_appys_v1_南府影视",
       "name": "南府影视(M)",
       "type": 3,
@@ -61,24 +35,6 @@
       "name": "YYDS阿里(爬虫)",
       "type": 3,
       "api": "csp_YydsAli1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "影视工厂(爬虫)",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Buka",
-      "name": "真不卡(爬虫)",
-      "type": 3,
-      "api": "csp_Buka",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -384,6 +340,32 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://wds.ecsxs.com/217623.json"
+    },
+    {
+      "key": "人人迷",
+      "name": "人人迷",
+      "type": 1,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.renrenmi.cc/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "战争片",
+        "恐怖片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "其他剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "csp_appys_v1_手指影视",
@@ -2270,18 +2252,60 @@
   ],
   "lives": [
     {
-      "group": "经典",
+      "group": "动画",
       "channels": [
         {
-          "name": "唯心電視",
+          "name": "Animax",
+          "urls": [
+            " http://iptv.tvfix.org/hls/animax.m3u8"
+          ]
+        },
+        {
+          "name": "TVB动画",
+          "urls": [
+            "http://iptv.tvfix.org/hls/kid.m3u8"
+          ]
+        },
+        {
+          "name": "GOODTV-卡通",
+          "urls": [
+            "https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8"
+          ]
+        },
+        {
+          "name": "动漫秀场",
+          "urls": [
+            "http://ott.js.chinamobile.com/TVOD/3/224/3221227774/index.m3u8",
+            "http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8"
+          ]
+        },
+        {
+          "name": "优漫卡通",
+          "urls": [
+            "http://117.148.179.160/PLTV/88888888/224/3221231574/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "乱搞",
+      "channels": [
+        {
+          "name": "唯心",
           "urls": [
             "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
           ]
         },
         {
-          "name": "清华大学",
+          "name": "清华",
           "urls": [
             "https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8"
+          ]
+        },
+        {
+          "name": "Netflix",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"
           ]
         },
         {
@@ -2301,18 +2325,6 @@
           "name": "HOBOC音乐台",
           "urls": [
             "http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8"
-          ]
-        },
-        {
-          "name": "MTV",
-          "urls": [
-            "http://livetv2021.site:8080/9897876765/6576567/8847"
-          ]
-        },
-        {
-          "name": "MTV LIVE",
-          "urls": [
-            "http://livetv2021.site:8080/9897876765/6576567/6646"
           ]
         },
         {
@@ -2363,9 +2375,57 @@
           ]
         },
         {
+          "name": "Zeilsteen TV",
+          "urls": [
+            "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "51Radio TV",
+          "urls": [
+            "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Dance 24",
+          "urls": [
+            "https://eurodance90.catcast.tv/content/36987/index.m3u8"
+          ]
+        },
+        {
+          "name": "Fun 1",
+          "urls": [
+            "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "Top 40",
+          "urls": [
+            "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8"
+          ]
+        },
+        {
           "name": "M2O音乐台",
           "urls": [
             "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8"
+          ]
+        },
+        {
+          "name": "TRT Muzik",
+          "urls": [
+            "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+          ]
+        },
+        {
+          "name": "A-One",
+          "urls": [
+            "https://musicbox.cdn-01.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8?_=1641084786"
+          ]
+        },
+        {
+          "name": "Plus Channel ",
+          "urls": [
+            "https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8"
           ]
         },
         {
@@ -2375,15 +2435,30 @@
           ]
         },
         {
-          "name": "音乐石榴",
+          "name": "俄罗斯八音盒",
           "urls": [
-            "http://121.51.14.14/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8"
+            "https://mhd116.iptv2022.com/p/CE0kgdGbd9J3njurv1Rc6A,1641167501/streaming/musicbox/324/vl2w/playlist.m3u8",
+            "https://mhd116.iptv2022.com/p/CE0kgdGbd9J3njurv1Rc6A,1641167501/streaming/musicbox/324/variable.m3u8"
           ]
         },
         {
-          "name": "Netflix",
+          "name": "Love Nature",
           "urls": [
-            "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"
+            " http://iptv.tvfix.org/hls/lovenature4k_v.m3u8"
+          ]
+        },
+        {
+          "name": "Discovery",
+          "urls": [
+            "http://iptv.tvfix.org/hls/discovery.m3u8",
+            " http://iptv.tvfix.org/hls/discovery_v.m3u8"
+          ]
+        },
+        {
+          "name": "NHK中文",
+          "urls": [
+            "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8",
+            "https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index.m3u8"
           ]
         },
         {
@@ -2399,15 +2474,9 @@
           ]
         },
         {
-          "name": "Discovery",
+          "name": "动物星球",
           "urls": [
-            "http://iptv.tvfix.org/hls/discovery.m3u8"
-          ]
-        },
-        {
-          "name": "NHK中文",
-          "urls": [
-            "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+            " http://iptv.tvfix.org/hls/animal_v.m3u8"
           ]
         }
       ]
@@ -2419,6 +2488,7 @@
           "name": "CCTV-1",
           "urls": [
             "http://223.110.242.133:6610/jsyd/live1/G_CCTV-1-MD/G_CCTV-1-MD/",
+            " http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/2300000/mnf.m3u8",
             "http://117.148.179.42/PLTV/88888888/224/3221229818/index.m3u8",
             "http://180.139.114.49:4022/udp/239.81.0.102:4056",
             "http://223.110.242.143:6610/jsyd/live1/G_CCTV-1-MD/G_CCTV-1-MD/",
@@ -2793,6 +2863,7 @@
         {
           "name": "广西卫视",
           "urls": [
+            "http://iptv.tvfix.org/hls/gxhd.m3u8",
             "http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8",
             "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225711/1/index.m3u8?fmt=ts2hls",
             "http://39.134.24.24/PLTV/88888888/224/3221225594/index.m3u8",
@@ -3551,6 +3622,7 @@
         {
           "name": "CHC家庭影院",
           "urls": [
+            " http://iptv.tvfix.org/hls/chctv.m3u8",
             "http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8",
             "http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8",
             "http://93.190.139.36:8278/streams/d/chcfamily/playlist.m3u8"
@@ -3559,6 +3631,7 @@
         {
           "name": "CHC动作电影",
           "urls": [
+            " http://iptv.tvfix.org/hls/chcatv.m3u8",
             "http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8",
             "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=119&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
             "http://117.148.179.160/PLTV/88888888/224/3221231580/index.m3u8",
@@ -3568,6 +3641,7 @@
         {
           "name": "CHC高清电影",
           "urls": [
+            " http://iptv.tvfix.org/hls/chchd.m3u8",
             "http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8",
             "http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8",
             "http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8"
@@ -3669,7 +3743,13 @@
       "group": "港台",
       "channels": [
         {
-          "name": "TVBJ2",
+          "name": "TVB动画",
+          "urls": [
+            "http://iptv.tvfix.org/hls/kid.m3u8"
+          ]
+        },
+        {
+          "name": "TVB   J2",
           "urls": [
             "http://iptv.tvfix.org/hls/j2.m3u8",
             "http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52"
@@ -3684,8 +3764,8 @@
         {
           "name": "TVB翡翠",
           "urls": [
-            "http://anan.jxin122.top/cj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52",
             "http://iptv.tvfix.org/hls/jade.m3u8",
+            "http://anan.jxin122.top/cj.php?id=78&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52",
             "http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
             "http://27.47.68.167:808/hls/36/index.m3u8",
             "http://124.238.99.44:808/hls/354/index.m3u8",
@@ -3696,15 +3776,15 @@
         {
           "name": "TVB明珠",
           "urls": [
-            "http://kkmix1.f3322.net:825/hls/ch1/s.m3u8",
             "http://iptv.tvfix.org/hls/pearl.m3u8",
+            "http://kkmix1.f3322.net:825/hls/ch1/s.m3u8",
             "http://anan.jxin122.top/cj.php?id=77&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52",
             "http://nettvpro.live/hls/zjkp.php?id=12",
             "http://124.238.99.44:808/hls/355/index.m3u8"
           ]
         },
         {
-          "name": "TVB功夫台",
+          "name": "TVB功夫",
           "urls": [
             "http://iptv.tvfix.org/hls/tvbkf.m3u8"
           ]
@@ -3716,8 +3796,14 @@
             "http://27.47.68.25:808/hls/35/index.m3u8",
             "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a",
             "http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8",
-            "http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8",
-            "http://iptv.tvfix.org/hls/tvbxh.m3u8"
+            "http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8"
+          ]
+        },
+        {
+          "name": "TVB为食",
+          "urls": [
+            " http://iptv.tvfix.org/hls/tvbws.m3u8",
+            " http://iptv.tvfix.org/hls/tvbws_v.m3u8"
           ]
         },
         {
@@ -3731,22 +3817,35 @@
           ]
         },
         {
-          "name": "有线新闻",
+          "name": "无线财经",
           "urls": [
-            "http://anan.jxin122.top/cj.php?id=62&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52"
+            " http://iptv.tvfix.org/hls/finance.m3u8"
           ]
         },
         {
-          "name": "香港C+",
-          "urls": [
-            "http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8",
-            "http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8"
-          ]
-        },
-        {
-          "name": "美亚",
+          "name": "美亚电影",
           "urls": [
             "http://iptv.tvfix.org/hls/mydy.m3u8"
+          ]
+        },
+        {
+          "name": "Viu    TV",
+          "urls": [
+            "http://iptv.tvfix.org/hls/viutv.m3u8",
+            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=6&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
+            "http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8"
+          ]
+        },
+        {
+          "name": "RTHK32",
+          "urls": [
+            " http://iptv.tvfix.org/hkdtmb/32/index.m3u8"
+          ]
+        },
+        {
+          "name": "香港开电",
+          "urls": [
+            " http://iptv.tvfix.org/hkdtmb/77/index.m3u8"
           ]
         },
         {
@@ -3776,6 +3875,7 @@
           "name": "凤凰中文",
           "urls": [
             "http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
+            "http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8",
             "http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8",
             "http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://%31%31%33%2e%36%34%2e%31%34%37%2e%31%37%38:%38%30%38/%68%6c%73/%33%32/%69%6e%64%65%78%2e%6d%33%75%38",
             "http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8",
@@ -3788,8 +3888,8 @@
         {
           "name": "凤凰资讯",
           "urls": [
-            "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P",
             "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://%31%31%33%2e%36%34%2e%31%34%37%2e%31%37%38:%38%30%38/%68%6c%73/%33%33/%69%6e%64%65%78%2e%6d%33%75%38",
+            "http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8",
             "http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
             "http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8",
             "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8",
@@ -3801,7 +3901,6 @@
         {
           "name": "凤凰香港",
           "urls": [
-            "http://27.47.68.25:808/hls/34/index.m3u8",
             "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8",
             "http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS",
             "http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8",
@@ -3813,45 +3912,8 @@
         {
           "name": "凤凰电影",
           "urls": [
+            " http://iptv.tvfix.org/hls/fhdy.m3u8",
             "http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA"
-          ]
-        },
-        {
-          "name": "香港卫视",
-          "urls": [
-            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
-            "http://zhibo.hkstv.tv/livestream/mutfysrq.flv"
-          ]
-        },
-        {
-          "name": "RHK31",
-          "urls": [
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=8&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516"
-          ]
-        },
-        {
-          "name": "RHK32",
-          "urls": [
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=9&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516"
-          ]
-        },
-        {
-          "name": "ViuTV",
-          "urls": [
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=6&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
-            "http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8"
-          ]
-        },
-        {
-          "name": "香港卫视",
-          "urls": [
-            "http://zhibo.hkstv.tv/livestream/mutfysrq.flv"
-          ]
-        },
-        {
-          "name": "星空卫视",
-          "urls": [
-            "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
           ]
         },
         {
@@ -3899,6 +3961,7 @@
         {
           "name": "中天新闻",
           "urls": [
+            " http://iptv.tvfix.org/hls/ztxw.m3u8",
             "http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52",
             "http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8",
             "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009",
@@ -3909,6 +3972,7 @@
         {
           "name": "東森新聞",
           "urls": [
+            " http://iptv.tvfix.org/hls/dsxw.m3u8",
             "http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52",
             "http://50.7.61.147:30080/Entry/etnews",
             "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=25",
@@ -3917,7 +3981,7 @@
           ]
         },
         {
-          "name": "东森财经新闻",
+          "name": "东森财经",
           "urls": [
             "http://iptv2.phoves.com.cn/mytv/mytv.php?id=26&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
             "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=26"
@@ -3926,8 +3990,8 @@
         {
           "name": "TVBS新闻",
           "urls": [
-            "rtmp://59.124.75.138/sat/tv551",
             "http://iptv.tvfix.org/hls/tvbsnews.m3u8",
+            "rtmp://59.124.75.138/sat/tv551",
             "http://iptv2.phoves.com.cn/mytv/mytv.php?id=28&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
             "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072",
             "http://50.7.61.148:30080/Entry/tvbsnews"
@@ -3951,7 +4015,7 @@
           ]
         },
         {
-          "name": "华视新闻资讯",
+          "name": "华视新闻",
           "urls": [
             "http://iptv2.phoves.com.cn/mytv/mytv.php?id=27&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
             "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052",
@@ -3968,7 +4032,7 @@
           ]
         },
         {
-          "name": "新加坡亞洲新聞",
+          "name": "亞洲新聞",
           "urls": [
             "rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplqaifQcxeFMd6pf43gl2dlCjz%2FJMb8%2BZk1Yw14SITJvv"
           ]
@@ -3990,81 +4054,25 @@
         {
           "name": "澳亚卫视",
           "urls": [
-            "http://124.238.99.44:808/hls/360/index.m3u8",
             "http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8"
           ]
         },
         {
-          "name": "八大综合台",
+          "name": "TVBS亚洲",
           "urls": [
-            "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039"
+            " http://iptv.tvfix.org/hls/tvbs.m3u8"
           ]
         },
         {
           "name": "星空卫视",
           "urls": [
-            "http://iptv.tvfix.org/hls/startv.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "动画片",
-      "channels": [
-        {
-          "name": "黑莓动漫",
-          "urls": [
-            "http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8",
-            "http://112.15.230.37/PLTV/88888888/224/3221228998/index.m3u8",
-            "http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8"
+            " http://iptv.tvfix.org/hls/startv.m3u8"
           ]
         },
         {
-          "name": "动漫秀场",
+          "name": "惊栗电影",
           "urls": [
-            "http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8",
-            "http://ott.js.chinamobile.com/TVOD/3/224/3221227774/index.m3u8",
-            "http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8"
-          ]
-        },
-        {
-          "name": "优漫卡通",
-          "urls": [
-            "http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225933/index.m3u8",
-            "http://111.40.196.29/PLTV/88888888/224/3221225586/index.m3u8",
-            "http://117.148.179.160/PLTV/88888888/224/3221231574/index.m3u8"
-          ]
-        },
-        {
-          "name": "嘉佳卡通",
-          "urls": [
-            "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls"
-          ]
-        },
-        {
-          "name": "金鹰卡通",
-          "urls": [
-            "http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls",
-            "http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221226303/index.m3u8"
-          ]
-        },
-        {
-          "name": "卡酷少儿",
-          "urls": [
-            "http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time="
-          ]
-        },
-        null,
-        {
-          "name": "GOODTV-卡通",
-          "urls": [
-            "https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8"
-          ]
-        },
-        {
-          "name": "Disney",
-          "urls": [
-            "http://220.135.55.74:8505/live.m3u8"
+            " http://iptv.tvfix.org/hls/thrill.m3u8"
           ]
         }
       ]
@@ -4072,12 +4080,6 @@
     {
       "group": "乱播",
       "channels": [
-        {
-          "name": "蠟筆小新",
-          "urls": [
-            "http://121.12.115.158:80/txdirect.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8"
-          ]
-        },
         {
           "name": "青塘电影院1",
           "urls": [
