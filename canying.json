@@ -9,11 +9,11 @@ mgtv,http://www.zycaiji.net:7788/api.php/provide/vod/from/mgtv/at/xml/,解析
 sohu,http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/,解析
 letv,http://www.zycaiji.net:7788/api.php/provide/vod/from/letv/at/xml/,解析
 pptv,http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/,解析
-神马,http://www.zitv.cc/api.php/provide/vod/at/xml,不解析
-百度,http://api.dbyunzy.com//api.php/Seacms/vod/,解析
+神马，http : //www.zitv.cc/api.php/provide/vod/at/xml，不解析
+百度, http //api.dbyunzy.com//api.php/Seacms/vod/,解析
 番茄,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
-
-萌果,http://api.appearoo.top/api.php/provide/vod/at/xml/,解析
+饭团影院, http : //television.wkfile.com/api.php/app/,不解析
+萌果，http : //api.appearoo.top/api.php/provide/vod/at/xml/，解析
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 乐喵,http://www.98hyk.cn/api.php/provide/vod/at/xml/,解析
 天堂,http://vipmv.cc/api.php/provide/vod/at/xml/,解析
