@@ -2020,6 +2020,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "xiaogui_3080影视"
+    },
+    {
+      "key": "csp_appys_v1_南府影视",
+      "name": "南府影视(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "v1_南府影视"
     }
   ],
   "lives": [
@@ -2073,30 +2083,18 @@
       ]
     },
     {
-      "group": "乱搞",
+      "group": "歌狂",
       "channels": [
         {
-          "name": "沙雕视频",
+          "name": "AvangTV",
           "urls": [
-            "https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8"
+            "http://appavang.flashmediacast.com:1935/Appavang/livestream/palylist.m3u8"
           ]
         },
         {
-          "name": "唯心",
+          "name": "Kiss Kiss",
           "urls": [
-            "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
-          ]
-        },
-        {
-          "name": "清华",
-          "urls": [
-            "https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8"
-          ]
-        },
-        {
-          "name": "Netflix",
-          "urls": [
-            "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"
+            "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8"
           ]
         },
         {
@@ -2116,12 +2114,6 @@
           "name": "HOBOC",
           "urls": [
             "http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8"
-          ]
-        },
-        {
-          "name": "MTV 00's",
-          "urls": [
-            "http://livetv2021.site:8080/9897876765/6576567/6894"
           ]
         },
         {
@@ -2202,12 +2194,6 @@
           ]
         },
         {
-          "name": "TRT Muzik",
-          "urls": [
-            "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
-          ]
-        },
-        {
           "name": "A-One",
           "urls": [
             "https://musicbox.cdn-01.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8?_=1641084786"
@@ -2226,30 +2212,68 @@
           ]
         },
         {
-          "name": "俄罗斯八音盒",
+          "name": "AlbKanale Music",
           "urls": [
-            "https://mhd116.iptv2022.com/p/CE0kgdGbd9J3njurv1Rc6A,1641167501/streaming/musicbox/324/vl2w/playlist.m3u8",
-            "https://mhd116.iptv2022.com/p/CE0kgdGbd9J3njurv1Rc6A,1641167501/streaming/musicbox/324/variable.m3u8"
+            "https://albportal.net/albkanalemusic.m3u8"
           ]
         },
         {
-          "name": "Love Nature",
+          "name": "Adria Music",
           "urls": [
-            " http://iptv.tvfix.org/hls/lovenature4k_v.m3u8"
+            "https://srv1.adriatelekom.com/AdriaMusicTV/index.m3u8"
+          ]
+        },
+        {
+          "name": "ALB Music",
+          "urls": [
+            "http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "AlbKanale Music",
+          "urls": [
+            "https://albportal.net/albkanalemusic.m3u8"
+          ]
+        },
+        {
+          "name": "虎牙音乐",
+          "urls": [
+            "http://121.51.14.14/tx.hls.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1_2000.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "随机",
+      "channels": [
+        {
+          "name": "沙雕视频",
+          "urls": [
+            "https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "清华",
+          "urls": [
+            "https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8"
+          ]
+        },
+        {
+          "name": "Netflix",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"
           ]
         },
         {
           "name": "Discovery",
           "urls": [
-            "http://iptv.tvfix.org/hls/discovery.m3u8",
-            " http://iptv.tvfix.org/hls/discovery_v.m3u8"
+            "http://iptv.tvfix.org/hls/discovery.m3u8"
           ]
         },
         {
           "name": "NHK中文",
           "urls": [
-            "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8",
-            "https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index.m3u8"
+            "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
           ]
         },
         {
@@ -2267,14 +2291,19 @@
         {
           "name": "动物星球",
           "urls": [
-            " http://iptv.tvfix.org/hls/animal.m3u8",
-            "http://iptv.tvfix.org/hls/animal.m3u8"
+            " http://iptv.tvfix.org/hls/animal.m3u8"
           ]
         },
         {
-          "name": "乐",
+          "name": "Love Nature 4K",
           "urls": [
-            "http://121.51.14.14/tx.hls.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1_2000.m3u8"
+            " http://iptv.tvfix.org/hls/lovenature4k.m3u8"
+          ]
+        },
+        {
+          "name": "BeinSporst",
+          "urls": [
+            "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8"
           ]
         }
       ]
@@ -2632,14 +2661,7 @@
           "name": "甘肃卫视",
           "urls": [
             "http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8",
-            "http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv",
             "http://39.134.24.24/PLTV/88888888/224/3221225714/index.m3u8"
-          ]
-        },
-        {
-          "name": "广东南方卫视",
-          "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225871/index.m3u8"
           ]
         },
         {
@@ -2685,8 +2707,7 @@
         {
           "name": "海南卫视",
           "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8",
-            "http://ott.js.chinamobile.com/TVOD/3/224/3221228227/index.m3u8"
+            "http://iptv.tvfix.org/hls/lyhd.m3u8"
           ]
         },
         {
@@ -2802,12 +2823,6 @@
           ]
         },
         {
-          "name": "康巴卫视",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv"
-          ]
-        },
-        {
           "name": "辽宁卫视",
           "urls": [
             "http://223.110.242.133:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/",
@@ -2823,27 +2838,20 @@
         {
           "name": "内蒙古卫视",
           "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225626/index.m3u8"
+            "http://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8"
           ]
         },
         {
           "name": "宁夏卫视",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv",
+            "http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=af5c094b1641710229",
             "http://39.134.24.24/PLTV/88888888/224/3221225730/index.m3u8"
-          ]
-        },
-        {
-          "name": "青海安多卫视",
-          "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225875/index.m3u8"
           ]
         },
         {
           "name": "青海卫视",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv",
-            "http://39.134.24.24/PLTV/88888888/224/3221225606/index.m3u8"
+            "http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=535859ea1641703313"
           ]
         },
         {
@@ -2863,19 +2871,13 @@
         {
           "name": "山西卫视",
           "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225738/index.m3u8"
-          ]
-        },
-        {
-          "name": "陕西农林卫视",
-          "urls": [
-            "http://39.134.24.24/PLTV/88888888/224/3221225877/index.m3u8"
+            "http://iptv.tvfix.org/hls/sxrtv.m3u8"
           ]
         },
         {
           "name": "陕西卫视",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv"
+            "http://stream.snrtv.com/sxbc-star-hoBE27.m3u8"
           ]
         },
         {
@@ -2902,7 +2904,7 @@
         {
           "name": "云南卫视",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1",
+            "http://1.80.http.tvlive.ynradio.com---6c8c700a3ce94c50b4694d681fb16923.www.yntv.cn.365cyd.com.cn:11080/live/yunnanweishi/chunks_dvr_range-1641696180-1740.m3u8",
             "http://39.134.24.24/PLTV/88888888/224/3221225696/index.m3u8"
           ]
         },
@@ -2942,6 +2944,7 @@
           "name": "南方卫视",
           "urls": [
             "http://59.32.97.121:9901/tsfile/live/1014_1.m3u8",
+            "http://39.134.24.24/PLTV/88888888/224/3221225871/index.m3u8",
             "http://hongyanqiang.top/chudian.php?id=nfws",
             "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
           ]
@@ -4516,6 +4519,11 @@
       "name": "Preference",
       "type": 1,
       "url": "qq#绿箭影视2$$绿箭影视1$$筋斗云$$4K影院1$$蓝光视频$$益达影院$$抹茶猪$$DC影视$$(无名)$$瑞丰资源$$久九影视$$看剧吧1$$麻瓜视频$$星影相随1$$追剧吧2$$追剧吧1$$Yoyo1$$(无名)1$$Vip影院$$优视影视$$大头影视$$麻瓜视频1$$爱影视$$我爱电影1$$Yoyo$$蜜果TV$$筋斗云1$$饭后电影$$TV酷$$绿箭影视$$麻花视频$$豆渣影视$$看剧吧$$星空影视$$爱追剧$$影阅阁2$$遗忘影视$$极客$$玺娜影视$$林谷影视||pp#绿箭影视1$$绿箭影视2$$蓝光视频$$4K影院1$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$追剧吧2$$看剧吧1$$Yoyo1$$爱影视$$筋斗云$$追剧吧1$$(无名)1$$黄河影视$$Vip影院$$麻瓜视频1$$瑞丰资源$$优视影视$$大头影视$$绿箭影视$$Yoyo$$蜜果TV$$筋斗云1$$TV酷$$影阅阁2$$饭后电影$$麻花视频$$看剧吧$$豆渣影视$$爱追剧$$极客$$遗忘影视$$优视影视2$$林谷影视$$玺娜影视$$星影相随1||ac#久九影视$$麻瓜视频1$$我爱电影1$$Yoyo$$Yoyo1$$TV酷$$看剧吧$$爱追剧$$玺娜影视||mp#绿箭影视2$$筋斗云$$4K影院1$$益达影院$$绿箭影视1$$蓝光视频$$瑞丰资源$$抹茶猪$$DC影视$$优视影视$$影阅阁2$$优视影视2$$麻花视频||qy#久九影视$$筋斗云$$瑞丰资源$$4K影院1$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$绿箭影视1$$绿箭影视2$$星影相随1$$Yoyo1$$看剧吧1$$追剧吧1$$(无名)1$$爱影视$$黄河影视$$Vip影院$$优视影视$$大头影视$$绿箭影视$$我爱电影1$$蜜果TV$$筋斗云1$$蓝光视频$$饭后电影$$影阅阁2$$豆渣影视$$麻花视频$$极客$$遗忘影视$$玺娜影视||bl#久九影视$$绿箭影视1$$瑞丰资源$$筋斗云$$DC影视$$益达影院$$抹茶猪$$蓝光视频$$(无名)$$Yoyo1$$追剧吧2$$看剧吧1$$4K影院1$$爱影视$$追剧吧1$$(无名)1$$麻瓜视频1$$Vip影院$$大头影视$$麻瓜视频$$Yoyo$$绿箭影视$$星影相随1$$TV酷$$蜜果TV$$筋斗云1$$饭后电影$$我爱电影1$$看剧吧$$豆渣影视$$麻花视频$$星空影视$$遗忘影视$$极客$$影阅阁2$$爱追剧||cctv#绿箭影视1$$绿箭影视2$$瑞丰资源$$4K影院1$$筋斗云$$蓝光视频$$益达影院$$DC影视$$抹茶猪$$久九影视$$(无名)$$麻瓜视频$$星影相随1$$Yoyo1$$爱影视$$优视影视$$Vip影院$$(无名)1$$黄河影视$$麻瓜视频1$$绿箭影视$$我爱电影1$$Yoyo$$看剧吧$$影阅阁2$$爱追剧$$极客$$优视影视2$$TV酷$$林谷影视$$遗忘影视$$玺娜影视$$麻花视频||yk#久九影视$$绿箭影视2$$筋斗云$$瑞丰资源$$绿箭影视1$$4K影院1$$DC影视$$益达影院$$(无名)$$抹茶猪$$麻瓜视频$$星影相随1$$追剧吧1$$Yoyo1$$爱影视$$优视影视$$看剧吧1$$黄河影视$$Vip影院$$(无名)1$$大头影视$$绿箭影视$$蜜果TV$$筋斗云1$$影阅阁2$$饭后电影$$我爱电影1$$豆渣影视$$星空影视$$极客$$麻花视频$$遗忘影视$$玺娜影视||sh#绿箭影视1$$筋斗云$$久九影视$$蓝光视频$$益达影院$$4K影院1$$抹茶猪$$DC影视$$(无名)$$绿箭影视2$$麻瓜视频$$Yoyo1$$星影相随1$$黄河影视$$追剧吧1$$(无名)1$$Vip影院$$我爱电影1$$影阅阁2$$极客$$星空影视$$玺娜影视||le#(无名)$$久九影视$$麻瓜视频$$追剧吧2$$追剧吧1$$(无名)1$$麻瓜视频1$$Vip影院$$Yoyo1$$Yoyo$$我爱电影1$$TV酷$$看剧吧$$爱追剧$$极客$$林谷影视$$麻花视频||migu#久九影视$$绿箭影视2$$瑞丰资源$$益达影院$$筋斗云$$DC影视$$抹茶猪$$绿箭影视1$$4K影院1$$星影相随1$$蓝光视频$$我爱电影1$$Yoyo1$$影阅阁2$$麻花视频$$玺娜影视||mg#绿箭影视1$$筋斗云$$蓝光视频$$4K影院1$$瑞丰资源$$绿箭影视2$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$久九影视$$看剧吧1$$Yoyo1$$追剧吧2$$爱影视$$追剧吧1$$星影相随1$$(无名)1$$Vip影院$$黄河影视$$大头影视$$麻瓜视频1$$Yoyo$$我爱电影1$$绿箭影视$$蜜果TV$$筋斗云1$$麻花视频$$饭后电影$$影阅阁2$$豆渣影视$$TV酷$$看剧吧$$星空影视$$爱追剧$$遗忘影视$$极客$$林谷影视$$玺娜影视||1905#久九影视$$(无名)$$麻瓜视频$$Yoyo1$$爱影视$$(无名)1$$Vip影院$$麻瓜视频1$$Yoyo$$绿箭影视$$我爱电影1$$TV酷$$看剧吧$$爱追剧$$极客$$遗忘影视$$林谷影视$$玺娜影视"
+    },
+    {
+      "name": "OK",
+      "type": 1,
+      "url": "https://api.okjx.cc:3389/jx.php?url="
     }
   ],
   "flags": [
