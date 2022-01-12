@@ -142,6 +142,16 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/jumi.json"
     },
     {
+      "key": "csp_xpath_nlyy",
+      "name": "奈落影院(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wds.ecsxs.com/217623.json"
+    },
+    {
       "key": "csp_xpath_pianba",
       "name": "片吧影院(XPMac)",
       "type": 3,
@@ -150,6 +160,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianba.json"
+    },
+    {
+      "key": "csp_xpath_ meiju56",
+      "name": "美剧网(XPath)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/meiju56.json"
+    },
+    {
+      "key": "csp_xpath_pianku",
+      "name": "片库(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianku.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -232,6 +262,16 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/zjdr.json"
     },
     {
+      "key": "csp_xpath_lranc",
+      "name": "天天影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/tiantianys.json"
+    },
+    {
       "key": "csp_xpath_tvci",
       "name": "大师兄(XPath)",
       "type": 3,
@@ -240,16 +280,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dashixiong.json"
-    },
-    {
-      "key": "csp_xpath_nlyy",
-      "name": "奈落影院(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://wds.ecsxs.com/217623.json"
     },
     {
       "key": "人人迷",
@@ -2059,16 +2089,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "v1_南府影视"
-    },
-    {
-      "key": "csp_xpath_pianku",
-      "name": "片库(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianku.json"
     }
   ],
   "lives": [
