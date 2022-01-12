@@ -93,6 +93,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_Buka",
+      "name": "真不卡(爬虫)",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "csp_xpath_saohuo",
       "name": "骚火电影(XPath)",
       "type": 3,
@@ -100,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/CCSHCoder/APP/raw/master/XPath/saohuo.json"
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/saohuotv.json"
     },
     {
       "key": "csp_xpath_jiujiukanpian",
@@ -153,6 +162,26 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dm84.json"
     },
     {
+      "key": "csp_xpath_duboku",
+      "name": "独播库(XPath)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/duboku.json"
+    },
+    {
+      "key": "csp_xpath_jpys",
+      "name": "极品影视(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jpys.json"
+    },
+    {
       "key": "csp_xpath_94sm",
       "name": "94 神马（XPath）",
       "type": 3,
@@ -160,7 +189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json "
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/94sm"
     },
     {
       "key": "csp_xpath_cjt",
@@ -200,7 +229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/CCSHCoder/APP/raw/master/XPath/vipmv.json"
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/zjdr.json"
     },
     {
       "key": "csp_xpath_tvci",
@@ -210,7 +239,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dashixiong.json"
     },
     {
       "key": "csp_xpath_nlyy",
@@ -2030,6 +2059,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "v1_南府影视"
+    },
+    {
+      "key": "csp_xpath_pianku",
+      "name": "片库(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianku.json"
     }
   ],
   "lives": [
@@ -2057,6 +2096,7 @@
         {
           "name": "动漫秀场",
           "urls": [
+            "http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8",
             "http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8",
             "http://ott.js.chinamobile.com/TVOD/3/224/3221227774/index.m3u8",
             "http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8"
@@ -2071,7 +2111,8 @@
         {
           "name": "黑莓动画",
           "urls": [
-            "http://39.135.140.232:6610/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls"
+            "http://39.135.140.232:6610/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls",
+            "http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8"
           ]
         },
         {
@@ -2329,7 +2370,6 @@
             "http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
             "http://ott.js.chinamobile.com/TVOD/3/224/3221228146/index.m3u8",
-            "http://ott.js.chinamobile.com/TVOD/3/224/3221228149/index.m3u8",
             "http://111.20.33.93/PLTV/88888893/224/3221226231/index.m3u8",
             "http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8",
             "http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8",
@@ -2422,7 +2462,7 @@
           "name": "CCTV-6",
           "urls": [
             "http://223.110.242.143:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD/",
-            "http://223.110.242.153:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD/",
+            "http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6",
             "http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8",
             "http://111.20.33.93/PLTV/88888893/224/3221226393/index.m3u8",
@@ -2435,11 +2475,10 @@
         {
           "name": "CCTV-7",
           "urls": [
-            "http://223.110.242.195:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8",
             "http://223.110.251.219:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8",
-            "http://223.110.242.201:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8",
+            "http://223.110.242.195:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8",
+            "http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8",
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7",
-            "http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8",
             "http://ott.js.chinamobile.com/TVOD/3/224/3221227642/index.m3u8",
             "http://223.110.242.194:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8",
             "http://39.134.24.24/PLTV/88888888/224/3221225768/index.m3u8",
@@ -3065,9 +3104,10 @@
           ]
         },
         {
-          "name": "NewTV黑莓电竞之夜",
+          "name": "NewTV黑莓电竞",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
+            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx",
+            "http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8"
           ]
         },
         {
@@ -3081,9 +3121,10 @@
         {
           "name": "NewTV黑莓动画",
           "urls": [
+            "http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8",
+            "http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8",
             "http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8",
-            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg",
-            "http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8"
+            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
           ]
         },
         {
@@ -3142,15 +3183,16 @@
         {
           "name": "NewTV军旅剧场",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc",
-            "http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8"
+            "http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8",
+            "http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc"
           ]
         },
         {
           "name": "NewTV军事评论",
           "urls": [
-            "http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl",
-            "http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8"
+            "http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8",
+            "http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8",
+            "http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl"
           ]
         },
         {
@@ -3176,7 +3218,8 @@
         {
           "name": "NewTV明星大片",
           "urls": [
-            "http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8"
+            "http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8",
+            "http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8"
           ]
         },
         {
@@ -3204,7 +3247,7 @@
           ]
         },
         {
-          "name": "NewTV超级电视剧",
+          "name": "NewTV超级电视",
           "urls": [
             "http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8"
           ]
@@ -3462,26 +3505,31 @@
           ]
         },
         {
-          "name": "SiTV新视觉",
+          "name": "SiTV新视觉台",
           "urls": [
-            "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8"
+            "http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8",
+            "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8",
+            "Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=75&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id="
           ]
         },
         {
           "name": "SiTV动漫秀场",
           "urls": [
+            "http://112.25.48.68/live/program/live/dmxchd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/dmxchd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "SiTV游戏风云",
           "urls": [
+            "http://112.25.48.68/live/program/live/yxfyhd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/yxfyhd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "SiTV劲爆体育",
           "urls": [
+            "http://112.25.48.68/live/program/live/jbtyhd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8"
           ]
         },
@@ -3494,37 +3542,36 @@
         {
           "name": "SiTV欢笑剧场",
           "urls": [
+            "http://112.25.48.68/live/program/live/hxjchd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/hxjchd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "SiTV极速汽车",
           "urls": [
+            "http://112.25.48.68/live/program/live/jsqchd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/jsqchd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "SiTV生活时尚",
           "urls": [
+            "http://112.25.48.68/live/program/live/shsshd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/shsshd/4000000/mnf.m3u8"
           ]
         },
         {
-          "name": "SiTV全纪实",
+          "name": "SiTV全纪实台",
           "urls": [
+            "http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "SiTV都市剧场",
           "urls": [
+            "http://112.25.48.68/live/program/live/dsjchd/4000000/mnf.m3u8",
             "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/dsjchd/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "SiTV幸福彩",
-          "urls": [
-            "http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/xfchd/4000000/mnf.m3u8"
           ]
         },
         {
@@ -3629,13 +3676,15 @@
         {
           "name": "无线新闻",
           "urls": [
-            "http://iptv.tvfix.org/hls/inews.m3u8"
+            "http://iptv.tvfix.org/hls/inews.m3u8",
+            "http://ye23.win/iptv/tvb.php?id=1"
           ]
         },
         {
           "name": "无线财经",
           "urls": [
-            " http://iptv.tvfix.org/hls/finance.m3u8"
+            " http://iptv.tvfix.org/hls/finance.m3u8",
+            "http://ye23.win/iptv/tvb.php?id=2"
           ]
         },
         {
@@ -3762,14 +3811,13 @@
         {
           "name": "三立INEWS",
           "urls": [
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=29&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516"
+            "https://iptv.jmsooo.com/live/sli/index.m3u8"
           ]
         },
         {
           "name": "三立LIVE",
           "urls": [
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=30&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
-            "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=30"
+            "https://iptv.jmsooo.com/live/sl/index.m3u8"
           ]
         },
         {
@@ -3782,29 +3830,27 @@
         {
           "name": "寰宇新闻",
           "urls": [
-            "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=23",
-            "http://tw.hstv.pro/litv/litvts.php?id=litv-longturn14",
+            "https://iptv.jmsooo.com/live/hyxw/index.m3u8",
             "rtmp://v3948069e.live.126.net/live/hyxw"
           ]
         },
         {
           "name": "中視新聞",
           "urls": [
-            "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=21",
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=21&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
-            "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074"
+            "https://iptv.jmsooo.com/live/hsxw/index.m3u8"
           ]
         },
         {
           "name": "中天新闻",
           "urls": [
-            " http://iptv.tvfix.org/hls/ztxw.m3u8",
-            "https://tv1.6zxr.xyz/1/qq/index.m3u8"
+            "https://iptv.jmsooo.com/live/ctiztxw/index.m3u8",
+            " http://iptv.tvfix.org/hls/ztxw.m3u8"
           ]
         },
         {
           "name": "東森新聞",
           "urls": [
+            "https://iptv.jmsooo.com/live/dsxw/index.m3u8",
             " http://iptv.tvfix.org/hls/dsxw.m3u8",
             "https://tv1.6zxr.xyz/1/dsxw/index.m3u8"
           ]
@@ -3812,8 +3858,7 @@
         {
           "name": "东森财经",
           "urls": [
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=26&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
-            "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=26"
+            "https://iptv.jmsooo.com/live/dscj/index.m3u8"
           ]
         },
         {
@@ -3827,27 +3872,19 @@
         {
           "name": "民视新闻",
           "urls": [
-            "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=20",
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=20&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
-            "http://tw.hstv.pro/litv/litvts.php?id=litv-ftv13",
-            "http://50.7.61.148:30080/Entry/ftvnews"
+            "https://iptv.jmsooo.com/live/ctiztxw/index.m3u8"
           ]
         },
         {
           "name": "华视新闻",
           "urls": [
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=27&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
-            "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052",
-            "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=27"
+            "https://iptv.jmsooo.com/live/msxw/index.m3u8"
           ]
         },
         {
           "name": "台視新聞",
           "urls": [
-            "http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=22",
-            "http://iptv2.phoves.com.cn/mytv/mytv.php?id=22&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516",
-            "rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplqaifQcxeFMd6pf43gl2dlCjz%2FJMb8%2BZk1Yw14SITJvv",
-            "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051"
+            "https://iptv.jmsooo.com/live/tsxw/index.m3u8"
           ]
         },
         {
@@ -3879,8 +3916,8 @@
         {
           "name": "TVBS新闻",
           "urls": [
-            "http://iptv.tvfix.org/hls/tvbsnews.m3u8",
             "https://iptv.jmsooo.com/live/tvbsxw/index.m3u8",
+            "http://iptv.tvfix.org/hls/tvbsnews.m3u8",
             "https://tv1.6zxr.xyz/1/tvbs56/index.m3u8"
           ]
         },
@@ -3893,7 +3930,20 @@
         {
           "name": "TVBS",
           "urls": [
-            "http://iptv.tvfix.org/hls/tvbs.m3u8"
+            "http://iptv.tvfix.org/hls/tvbs.m3u8",
+            "https://iptv.jmsooo.com/live/tvbs56/index.m3u8"
+          ]
+        },
+        {
+          "name": "TVBS56",
+          "urls": [
+            "https://iptv.jmsooo.com/live/tvbs56/index.m3u8"
+          ]
+        },
+        {
+          "name": "运通财经",
+          "urls": [
+            "https://iptv.jmsooo.com/live/ytcj/index.m3u8"
           ]
         },
         {
@@ -3907,6 +3957,12 @@
           "urls": [
             " http://iptv.tvfix.org/hls/thrill.m3u8",
             "http://45.126.83.51/qwr9ew/s/s34/01.m3u8"
+          ]
+        },
+        {
+          "name": "龍華电影",
+          "urls": [
+            "https://4gtv.jmsooo.com/live/lhdy/index.m3u8"
           ]
         }
       ]
@@ -4518,12 +4574,17 @@
     {
       "name": "Preference",
       "type": 1,
-      "url": "qq#绿箭影视2$$绿箭影视1$$筋斗云$$4K影院1$$蓝光视频$$益达影院$$抹茶猪$$DC影视$$(无名)$$瑞丰资源$$久九影视$$看剧吧1$$麻瓜视频$$星影相随1$$追剧吧2$$追剧吧1$$Yoyo1$$(无名)1$$Vip影院$$优视影视$$大头影视$$麻瓜视频1$$爱影视$$我爱电影1$$Yoyo$$蜜果TV$$筋斗云1$$饭后电影$$TV酷$$绿箭影视$$麻花视频$$豆渣影视$$看剧吧$$星空影视$$爱追剧$$影阅阁2$$遗忘影视$$极客$$玺娜影视$$林谷影视||pp#绿箭影视1$$绿箭影视2$$蓝光视频$$4K影院1$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$追剧吧2$$看剧吧1$$Yoyo1$$爱影视$$筋斗云$$追剧吧1$$(无名)1$$黄河影视$$Vip影院$$麻瓜视频1$$瑞丰资源$$优视影视$$大头影视$$绿箭影视$$Yoyo$$蜜果TV$$筋斗云1$$TV酷$$影阅阁2$$饭后电影$$麻花视频$$看剧吧$$豆渣影视$$爱追剧$$极客$$遗忘影视$$优视影视2$$林谷影视$$玺娜影视$$星影相随1||ac#久九影视$$麻瓜视频1$$我爱电影1$$Yoyo$$Yoyo1$$TV酷$$看剧吧$$爱追剧$$玺娜影视||mp#绿箭影视2$$筋斗云$$4K影院1$$益达影院$$绿箭影视1$$蓝光视频$$瑞丰资源$$抹茶猪$$DC影视$$优视影视$$影阅阁2$$优视影视2$$麻花视频||qy#久九影视$$筋斗云$$瑞丰资源$$4K影院1$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$绿箭影视1$$绿箭影视2$$星影相随1$$Yoyo1$$看剧吧1$$追剧吧1$$(无名)1$$爱影视$$黄河影视$$Vip影院$$优视影视$$大头影视$$绿箭影视$$我爱电影1$$蜜果TV$$筋斗云1$$蓝光视频$$饭后电影$$影阅阁2$$豆渣影视$$麻花视频$$极客$$遗忘影视$$玺娜影视||bl#久九影视$$绿箭影视1$$瑞丰资源$$筋斗云$$DC影视$$益达影院$$抹茶猪$$蓝光视频$$(无名)$$Yoyo1$$追剧吧2$$看剧吧1$$4K影院1$$爱影视$$追剧吧1$$(无名)1$$麻瓜视频1$$Vip影院$$大头影视$$麻瓜视频$$Yoyo$$绿箭影视$$星影相随1$$TV酷$$蜜果TV$$筋斗云1$$饭后电影$$我爱电影1$$看剧吧$$豆渣影视$$麻花视频$$星空影视$$遗忘影视$$极客$$影阅阁2$$爱追剧||cctv#绿箭影视1$$绿箭影视2$$瑞丰资源$$4K影院1$$筋斗云$$蓝光视频$$益达影院$$DC影视$$抹茶猪$$久九影视$$(无名)$$麻瓜视频$$星影相随1$$Yoyo1$$爱影视$$优视影视$$Vip影院$$(无名)1$$黄河影视$$麻瓜视频1$$绿箭影视$$我爱电影1$$Yoyo$$看剧吧$$影阅阁2$$爱追剧$$极客$$优视影视2$$TV酷$$林谷影视$$遗忘影视$$玺娜影视$$麻花视频||yk#久九影视$$绿箭影视2$$筋斗云$$瑞丰资源$$绿箭影视1$$4K影院1$$DC影视$$益达影院$$(无名)$$抹茶猪$$麻瓜视频$$星影相随1$$追剧吧1$$Yoyo1$$爱影视$$优视影视$$看剧吧1$$黄河影视$$Vip影院$$(无名)1$$大头影视$$绿箭影视$$蜜果TV$$筋斗云1$$影阅阁2$$饭后电影$$我爱电影1$$豆渣影视$$星空影视$$极客$$麻花视频$$遗忘影视$$玺娜影视||sh#绿箭影视1$$筋斗云$$久九影视$$蓝光视频$$益达影院$$4K影院1$$抹茶猪$$DC影视$$(无名)$$绿箭影视2$$麻瓜视频$$Yoyo1$$星影相随1$$黄河影视$$追剧吧1$$(无名)1$$Vip影院$$我爱电影1$$影阅阁2$$极客$$星空影视$$玺娜影视||le#(无名)$$久九影视$$麻瓜视频$$追剧吧2$$追剧吧1$$(无名)1$$麻瓜视频1$$Vip影院$$Yoyo1$$Yoyo$$我爱电影1$$TV酷$$看剧吧$$爱追剧$$极客$$林谷影视$$麻花视频||migu#久九影视$$绿箭影视2$$瑞丰资源$$益达影院$$筋斗云$$DC影视$$抹茶猪$$绿箭影视1$$4K影院1$$星影相随1$$蓝光视频$$我爱电影1$$Yoyo1$$影阅阁2$$麻花视频$$玺娜影视||mg#绿箭影视1$$筋斗云$$蓝光视频$$4K影院1$$瑞丰资源$$绿箭影视2$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$久九影视$$看剧吧1$$Yoyo1$$追剧吧2$$爱影视$$追剧吧1$$星影相随1$$(无名)1$$Vip影院$$黄河影视$$大头影视$$麻瓜视频1$$Yoyo$$我爱电影1$$绿箭影视$$蜜果TV$$筋斗云1$$麻花视频$$饭后电影$$影阅阁2$$豆渣影视$$TV酷$$看剧吧$$星空影视$$爱追剧$$遗忘影视$$极客$$林谷影视$$玺娜影视||1905#久九影视$$(无名)$$麻瓜视频$$Yoyo1$$爱影视$$(无名)1$$Vip影院$$麻瓜视频1$$Yoyo$$绿箭影视$$我爱电影1$$TV酷$$看剧吧$$爱追剧$$极客$$遗忘影视$$林谷影视$$玺娜影视"
+      "url": "qq#绿箭影视2$$绿箭影视1$$筋斗云$$4K影院1$$蓝光视频$$益达影院$$抹茶猪$$DC影视$$(无名)$$瑞丰资源$$久九影视$$看剧吧1$$麻瓜视频$$星影相随1$$追剧吧2$$追剧吧1$$Yoyo1$$(无名)1$$Vip影院$$优视影视$$大头影视$$麻瓜视频1$$爱影视$$我爱电影1$$Yoyo$$蜜果TV$$筋斗云1$$饭后电影$$TV酷$$绿箭影视$$麻花视频$$豆渣影视$$看剧吧$$星空影视$$爱追剧$$影阅阁2$$遗忘影视$$极客$$玺娜影视$$林谷影视||pp#绿箭影视1$$绿箭影视2$$蓝光视频$$4K影院1$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$追剧吧2$$看剧吧1$$Yoyo1$$爱影视$$筋斗云$$追剧吧1$$(无名)1$$黄河影视$$Vip影院$$麻瓜视频1$$瑞丰资源$$优视影视$$大头影视$$绿箭影视$$Yoyo$$蜜果TV$$筋斗云1$$TV酷$$影阅阁2$$饭后电影$$麻花视频$$看剧吧$$豆渣影视$$爱追剧$$极客$$遗忘影视$$优视影视2$$林谷影视$$玺娜影视$$星影相随1||ac#久九影视$$麻瓜视频1$$我爱电影1$$Yoyo$$Yoyo1$$TV酷$$看剧吧$$爱追剧$$玺娜影视||mp#绿箭影视2$$筋斗云$$4K影院1$$益达影院$$绿箭影视1$$蓝光视频$$瑞丰资源$$抹茶猪$$DC影视$$优视影视$$影阅阁2$$优视影视2$$麻花视频||qy#久九影视$$筋斗云$$瑞丰资源$$4K影院1$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$绿箭影视1$$绿箭影视2$$星影相随1$$Yoyo1$$看剧吧1$$追剧吧1$$(无名)1$$爱影视$$黄河影视$$Vip影院$$优视影视$$大头影视$$绿箭影视$$我爱电影1$$蜜果TV$$筋斗云1$$蓝光视频$$饭后电影$$影阅阁2$$豆渣影视$$麻花视频$$极客$$遗忘影视$$玺娜影视||bl#久九影视$$绿箭影视1$$瑞丰资源$$筋斗云$$DC影视$$益达影院$$抹茶猪$$蓝光视频$$(无名)$$Yoyo1$$追剧吧2$$看剧吧1$$4K影院1$$爱影视$$追剧吧1$$(无名)1$$麻瓜视频1$$Vip影院$$大头影视$$麻瓜视频$$Yoyo$$绿箭影视$$星影相随1$$TV酷$$蜜果TV$$筋斗云1$$饭后电影$$我爱电影1$$看剧吧$$豆渣影视$$麻花视频$$星空影视$$遗忘影视$$极客$$影阅阁2$$爱追剧||cctv#绿箭影视1$$绿箭影视2$$瑞丰资源$$4K影院1$$筋斗云$$蓝光视频$$益达影院$$DC影视$$抹茶猪$$久九影视$$(无名)$$麻瓜视频$$星影相随1$$Yoyo1$$爱影视$$优视影视$$Vip影院$$(无名)1$$黄河影视$$麻瓜视频1$$绿箭影视$$我爱电影1$$Yoyo$$看剧吧$$影阅阁2$$爱追剧$$极客$$优视影视2$$TV酷$$林谷影视$$遗忘影视$$玺娜影视$$麻花视频||yk#久九影视$$绿箭影视2$$筋斗云$$瑞丰资源$$绿箭影视1$$4K影院1$$DC影视$$益达影院$$(无名)$$抹茶猪$$麻瓜视频$$星影相随1$$追剧吧1$$Yoyo1$$爱影视$$优视影视$$看剧吧1$$黄河影视$$Vip影院$$(无名)1$$大头影视$$绿箭影视$$蜜果TV$$筋斗云1$$影阅阁2$$饭后电影$$我爱电影1$$豆渣影视$$星空影视$$极客$$麻花视频$$遗忘影视$$玺娜影视||sh#绿箭影视1$$筋斗云$$久九影视$$蓝光视频$$益达影院$$4K影院1$$抹茶猪$$DC影视$$(无名)$$绿箭影视2$$麻瓜视频$$Yoyo1$$星影相随1$$黄河影视$$追剧吧1$$(无名)1$$Vip影院$$我爱电影1$$影阅阁2$$极客$$星空影视$$玺娜影视||le#(无名)$$久九影视$$麻瓜视频$$追剧吧2$$追剧吧1$$(无名)1$$麻瓜视频1$$Vip影院$$Yoyo1$$Yoyo$$我爱电影1$$TV酷$$看剧吧$$爱追剧$$极客$$林谷影视$$麻花视频||migu#久九影视$$绿箭影视2$$瑞丰资源$$益达影院$$筋斗云$$DC影视$$抹茶猪$$绿箭影视1$$4K影院1$$星影相随1$$蓝光视频$$我爱电影1$$Yoyo1$$影阅阁2$$麻花视频$$玺娜影视||mg#绿箭影视1$$筋斗云$$蓝光视频$$4K影院1$$瑞丰资源$$绿箭影视2$$益达影院$$DC影视$$抹茶猪$$(无名)$$麻瓜视频$$久九影视$$看剧吧1$$Yoyo1$$追剧吧2$$爱影视$$追剧吧1$$星影相随1$$(无名)1$$Vip影院$$黄河影视$$大头影视$$麻瓜视频1$$Yoyo$$我爱电影1$$绿箭影视$$蜜果TV$$筋斗云1$$麻花视频$$饭后电影$$影阅阁2$$豆渣影视$$TV酷$$看剧吧$$星空影视$$爱追剧$$遗忘影视$$极客$$林谷影视$$玺娜影视||1905#久九影视$$(无名)$$麻瓜视频$$Yoyo1$$爱影视$$(无名)1$$Vip影院$$麻瓜视频1$$Yoyo$$绿箭影视$$我爱电影1$$TV酷$$看剧吧$$爱追剧$$极客$$遗忘影视$$林谷影视$$玺娜影视$$OK$$ko"
     },
     {
       "name": "OK",
       "type": 1,
       "url": "https://api.okjx.cc:3389/jx.php?url="
+    },
+    {
+      "name": "ko",
+      "type": 1,
+      "url": "https://json.pangujiexi.com:12345/json.php?url="
     }
   ],
   "flags": [
