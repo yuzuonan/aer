@@ -1228,6 +1228,593 @@
   ],
   "lives": [
     {
+      "group": "肥灿NBA",
+      "channels": [
+        {
+          "name": "NBA",
+          "urls": [
+            "https://iptv.jmsooo.com/live/nbatv/index.m3u8",
+            "https://Richi@d10nbk66ckd93y.cloudfront.net/hls/espn/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "1频道NBA",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/nbatv/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "2频道ABC",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/abc/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "3频道ESPN",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/espn/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "4频道TNT",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/TNT/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "凯尔特人",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/celtics/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "尼克斯",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/knicks/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "勇士",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/warriors/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "奇才",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/wizards/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "骑士",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/cavaliers/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "灰熊",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/grizzlies/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "快船",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/clippers/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "老鹰",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/hawks/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "魔术",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/magic/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "热火",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/heat/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "独行侠",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/mavericks/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "马刺",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/spurs/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "湖人",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/lakers/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "鹈鹕",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/pelicans/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "黄蜂",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/hornets/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "76人",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/76ers/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "篮网",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/nets/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "公牛",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/bulls/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "步行者",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/pacers/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "雄鹿",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/bucks/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "开拓者",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/blazers/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "猛龙",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/raptors/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "雷霆",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/thunder/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "太阳",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/suns/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "爵士",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/jazz/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "掘金",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/nuggets/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "国王",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/kings/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "活塞",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/pistons/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "火箭",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/rockets/chunks.m3u8"
+          ]
+        },
+        {
+          "name": "森林狼",
+          "urls": [
+            "https://d10nbk66ckd93y.cloudfront.net/hls/timberwolves/chunks.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "赛事直播",
+      "channels": [
+        {
+          "name": "英超法甲德甲",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225965/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "意甲西甲中超",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225962/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "nba-cba-ufc",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225959/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "全部场次直播",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225935/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "比赛开始后从",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225906/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "下方信号寻找",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225876/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "0MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225851/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "1MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225849/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "2MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225848/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "3MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225846/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "4MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225845/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "5MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225843/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "6MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225842/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "7MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225840/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "8MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225839/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "9MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225837/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "10MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225834/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "11MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225820/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "12MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225817/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "13MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225814/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "14MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225811/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "15MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225808/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "16MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225805/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "17MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225802/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "18MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225799/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "19MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225796/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "20MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225793/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "21MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225792/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "22MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225789/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "23MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225786/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "24MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225783/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "25MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225780/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "26MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225777/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "27MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225774/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "28MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225771/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "29MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225769/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "30MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225654/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "31MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225920/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "32MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225917/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "33MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225914/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "34MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225911/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "35MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225908/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "36MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225905/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "37MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225902/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "38MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225899/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "39MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225896/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "40MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225893/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "41MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225871/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "42MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225868/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "43MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225865/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "44MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225862/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "45MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225861/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "46MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225860/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "47MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225859/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "48MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225858/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "49MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225857/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "50MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225856/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "51MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225855/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "52MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225854/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "53MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225853/index.m3u8?hls"
+          ]
+        },
+        {
+          "name": "54MG体育",
+          "urls": [
+            "http://39.135.46.246:6610/PLTV/77777777/224/3221225852/index.m3u8?hls"
+          ]
+        }
+      ]
+    },
+    {
       "group": "动画",
       "channels": [
         {
