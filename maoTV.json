@@ -1,6 +1,36 @@
 {
   "sites": [
     {
+      "key": "csp_appysv2_tkys",
+      "name": "天空影视(M2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "星空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"
+    },
+    {
+      "key": "csp_appys_爱看美剧",
+      "name": "爱看美剧(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://www.uumjw.com/api.php/v1.vod"
+    },
+    {
+      "key": "csp_appys_美剧虫",
+      "name": "美剧虫(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://meijuchong.com/api.php/v1.vod"
+    },
+    {
       "key": "csp_appys_迪迪影院",
       "name": "迪迪影院(V2)",
       "type": 3,
@@ -9,6 +39,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://dd88.icu:6080/xgapp.php/v2/\r\n"
+    },
+    {
+      "key": "csp_appys_虎猫视频",
+      "name": "虎猫视频(K)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://humaosp.com/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appys_大师兄",
@@ -51,6 +91,16 @@
       "ext": "https://www.inmi.app/xgapp.php/v1/"
     },
     {
+      "key": "csp_appys_HG影视",
+      "name": "HG影视(K)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://hgyx.vip/api.php/v1.vod"
+    },
+    {
       "key": "csp_appys_苍蓝资源",
       "name": "苍蓝资源(K)",
       "type": 3,
@@ -89,16 +139,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://zhuiju8.vip/api.php/v1.vod"
-    },
-    {
-      "key": "csp_appys_虎猫视频",
-      "name": "虎猫视频(K)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://humaosp.com/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appys_南府追剧",
@@ -2098,7 +2138,7 @@
           ]
         },
         {
-          "name": "西藏卫视",
+          "name": "藏区卫视",
           "urls": [
             "http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8"
           ]
