@@ -41,6 +41,26 @@
       "ext": "https://meijuchong.com/api.php/v1.vod"
     },
     {
+      "key": "csp_appysv2_星空影视",
+      "name": "星空推荐(M2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "星空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+    },
+    {
+      "key": "csp_appysv2_饭团影视",
+      "name": "饭团影视(M2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "饭团影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+    },
+    {
       "key": "csp_appys_迪迪影院",
       "name": "迪迪影院(V2)",
       "type": 3,
@@ -149,16 +169,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://zhuiju8.vip/api.php/v1.vod"
-    },
-    {
-      "key": "csp_appysv2_星空影视",
-      "name": "星空推荐(M2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "星空影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
     },
     {
       "key": "csp_appys_影视工场",
@@ -401,16 +411,6 @@
       "ext": "莫扎兔###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
     },
     {
-      "key": "csp_appysv2_饭团影视",
-      "name": "饭团影视(M2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "饭团影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
       "key": "csp_appysv2_灵狐影视",
       "name": "灵狐影视(M2)",
       "type": 3,
@@ -429,16 +429,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "手指影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_1080p",
-      "name": "1080p(优)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "1080p###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
     },
     {
       "key": "csp_appysv2_1231D",
