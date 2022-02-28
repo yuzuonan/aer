@@ -25,20 +25,20 @@
 {"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/duboku.json"},
 {"key":"csp_xpath_Ole","name":"欧乐(XPMac)(播放器要改成Exo)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/olevod.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/pianba.json"},
-//{"key":"csp_xpath_4kpianku","name":"4k片库网(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/4kpianku.json"},
+{"key":"csp_xpath_4kpianku","name":"4k片库网(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/4kpianku.json"},
 {"key":"csp_xpath_cjt","name":"CJT影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/cjtys.json"},
 
 {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/saohuotv2.json"},
 {"key":"csp_xpath_subb","name":"素白白影视(XP)(不能播改EXO)","type":3,"api":"csp_XPathSubb","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/subaibai.json"},
 {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/dm84.json"},
-//{"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPathAge","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/agefans.json"},
+{"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPathAge","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/agefans.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/agefans.json"},
 {"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/94sm.json"},
 {"key":"csp_xpath_jpys","name":"极品(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/jpys.json"},
 {"key":"csp_yinghua","name":"樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/yinghua.json"},
 
 
- 
+
 
 {"key":"csp_appysv2_星空影视","name":"星空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"星空影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭团影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
@@ -73,13 +73,11 @@
 {"key":"csp_appysv2_免费看2","name":"免费看2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"免费看###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_林谷影视","name":"林谷影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"林谷影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_饭后电影2","name":"饭后电影2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭后电影###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
-
-
-
 {"key":"csp_appysv2_1080p","name":"1080p(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"1080p###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_1231D","name":"1231D(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"1231D###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_300看世界","name":"300看世界(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"300看世界###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_4K影院","name":"4K影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"4K影院###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
+{"key":"csp_appysv2_80K影视","name":"80K影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"80K影视###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_CJT影院","name":"CJT影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"CJT影院###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_DC影视","name":"DC影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"DC影视###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_F7高清","name":"F7高清(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"F7高清###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
@@ -214,6 +212,7 @@
 {"key":"csp_appysv2_鱼仔影视","name":"鱼仔影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"鱼仔影视###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_追剧达人","name":"追剧达人(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"追剧达人###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_追剧猫","name":"追剧猫(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"追剧猫###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
+{"key":"csp_appysv2_侦探影视","name":"侦探影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"侦探影视###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_猪猪影院","name":"猪猪影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"猪猪影院###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_2号币","name":"2号币(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"2号币###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
 {"key":"csp_appysv2_CV影视","name":"CV影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"CV影视###https://gitee.com/hd2019/OneClickRun/raw/master/xpath/appysv2.json"},
@@ -584,7 +583,4 @@
 "cdnjs.hnfenxun.com",
 "cms.qdwght.com"
 ]
-// 更新至猫影视TV 2.0.8 才能使用底下官方配置接口
-// 官方维护 配置接口1 https://c1n.cn/cat
-// 官方维护 配置接口2 http://gg.gg/898900
 }
