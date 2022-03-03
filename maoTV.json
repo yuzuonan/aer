@@ -184,6 +184,16 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/saohuotv.json"
     },
     {
+      "key": "csp_xpath_dmntv",
+      "name": "狐灵影视(XPath)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"
+    },
+    {
       "key": "csp_xpath_jiujiukanpian",
       "name": "久久影视(XPath)",
       "type": 3,
@@ -532,16 +542,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "300看世界###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_灵狐影视",
-      "name": "灵狐影视(M2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "灵狐影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
     },
     {
       "key": "csp_appysv2_4K影院",
