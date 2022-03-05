@@ -10,15 +10,15 @@
       "filterable": 1,
       "ext": "https://www.tkys.tv/xgapp.php/v2/"
     },
-    {
-      "key": "csp_appysv2_追剧达人",
-      "name": "追剧达人(V2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "追剧达人###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+   {
+     "key":"csp_appysv2_追剧达人",
+     "name":"追剧推荐(M2)",
+     "type":3,
+     "api":"csp_AppYsV2",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"追剧达人###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
     },
     {
       "key": "csp_appys_美剧虫",
