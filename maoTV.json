@@ -203,6 +203,15 @@
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dashixiong.json"
     },
+    {"key":"csp_xpath_agefans",
+     "name":"Age动漫(XPath)",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"https://gitee.com/yuzuonan/xx/raw/main/AGEdongman.json"
+    },
     {
       "key": "csp_xpath_dm84",
       "name": "动漫巴士(XPath)",
@@ -212,6 +221,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dm84.json"
+    },
+    {
+      "key": "csp_yinghua",
+      "name": "樱花动漫(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yinghua.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -342,16 +361,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
-    },
-    {
-      "key": "csp_yinghua",
-      "name": "樱花动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yinghua.json"
     },
     {
       "key": "csp_xpath_jykk",
