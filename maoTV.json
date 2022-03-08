@@ -1,15 +1,5 @@
 {
   "sites": [
-     {
-      "key": "csp_appysv2_饭团影视",
-      "name": "饭团影视(M2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://television.wkfile.com/api.php/app/"
-    },
     {
       "key": "csp_appysv2_追剧达人",
       "name": "追剧推荐(M2)",
@@ -18,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://vipmv.co/xgapp.php/v1/"
+      "ext": "追剧达人###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
     },
     {
       "key": "csp_appys_美剧虫",
@@ -141,7 +131,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/subaibai.json"
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/subaaibai.json"
+    },
+    {
+      "key": "csp_xpath_dmntv",
+      "name": "狐灵影视(XPath)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"
     },
     {
       "key": "csp_xpath_saohuo",
@@ -154,14 +154,24 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/saohuotv.json"
     },
     {
-      "key": "csp_xpath_dmntv",
-      "name": "狐灵影视(XPath)",
+      "key": "csp_xpath_ftyy",
+      "name": "饭团影院(XPath)",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XPath",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/fantuanTV.json"
+    },
+    {
+      "key": "csp_xpath_影视工厂",
+      "name": "影视工厂(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yingshigongchan.json"
     },
     {
       "key": "csp_xpath_jiujiukanpian",
@@ -203,15 +213,6 @@
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dashixiong.json"
     },
-    {"key":"csp_xpath_agefans",
-     "name":"Age动漫(XPath)",
-     "type":3,
-     "api":"csp_XPath",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"https://gitee.com/yuzuonan/xx/raw/main/AGEdongman.json"
-    },
     {
       "key": "csp_xpath_dm84",
       "name": "动漫巴士(XPath)",
@@ -221,16 +222,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dm84.json"
-    },
-    {
-      "key": "csp_yinghua",
-      "name": "樱花动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yinghua.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -363,6 +354,16 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
     },
     {
+      "key": "csp_yinghua",
+      "name": "樱花动漫(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yinghua.json"
+    },
+    {
       "key": "csp_xpath_jykk",
       "name": "九亿看看(XPathMac)",
       "type": 3,
@@ -472,7 +473,17 @@
       "filterable": 1,
       "ext": "http://www.69ty.cc/mogai_api.php/v1.vod"
     },
-   {
+    {
+      "key": "csp_appysv2_饭团影视",
+      "name": "饭团影视(M2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "饭团影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+    },
+    {
       "key": "csp_appysv2_手指影视",
       "name": "手指影视(M2)",
       "type": 3,
@@ -3034,16 +3045,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/picture/raw/master/dandanzan.json"
-    },
-    {
-      "key": "csp_xpath_影视工厂",
-      "name": "影视工厂(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yingshigongchan.json"
     }
   ],
   "lives": [
