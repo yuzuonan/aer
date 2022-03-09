@@ -104,6 +104,16 @@
       "filterable": 1
     },
     {
+      "key": "Jumi",
+      "name": "剧迷(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jumi.json"
+    },
+    {
       "key": "Aixixi",
       "name": "爱西西(P)",
       "type": 3,
@@ -135,7 +145,7 @@
     },
     {
       "key": "csp_xpath_dmntv",
-      "name": "狐灵影视(XPath)",
+      "name": "狐灵影视(XP)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -145,7 +155,7 @@
     },
     {
       "key": "csp_xpath_saohuo",
-      "name": "骚火电影(XPath)",
+      "name": "骚火电影(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -155,7 +165,7 @@
     },
     {
       "key": "csp_xpath_ftyy",
-      "name": "饭团影院(XPath)",
+      "name": "饭团影院(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -165,7 +175,7 @@
     },
     {
       "key": "csp_xpath_影视工厂",
-      "name": "影视工厂(XPath)",
+      "name": "影视工厂(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -175,7 +185,7 @@
     },
     {
       "key": "csp_xpath_jiujiukanpian",
-      "name": "久久影视(XPath)",
+      "name": "久久影视(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -185,7 +195,7 @@
     },
     {
       "key": "csp_xpath_94sm",
-      "name": "94神马(XPath)",
+      "name": "94神马(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -195,7 +205,7 @@
     },
     {
       "key": "csp_xpath_cjt",
-      "name": "CJT影视(XPMac)",
+      "name": "CJT影视(XP)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -204,8 +214,48 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/cjtys.json"
     },
     {
+      "key": "csp_xpath_duboku",
+      "name": "独播库(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/duboku.json"
+    },
+    {
+      "key": "csp_xpath_pianba",
+      "name": "片吧影院(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianba.json"
+    },
+    {
+      "key": "csp_xpath_pianku",
+      "name": "片库(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianku.json"
+    },
+    {
+      "key": "csp_xpath_4kpianku",
+      "name": "4k片库网(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/4Kpianku.json"
+    },
+    {
       "key": "csp_xpath_tvci",
-      "name": "大师兄(XPath)",
+      "name": "大师兄(XP)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -214,18 +264,8 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dashixiong.json"
     },
     {
-      "key": "csp_xpath_dm84",
-      "name": "动漫巴士(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dm84.json"
-    },
-    {
       "key": "csp_xpath_lezhutv",
-      "name": "乐猪TV(XPMac)",
+      "name": "乐猪TV(XP)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -235,7 +275,7 @@
     },
     {
       "key": "csp_xpath_ meiju56",
-      "name": "美剧网(XPath)",
+      "name": "美剧网(XP)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -245,7 +285,7 @@
     },
     {
       "key": "csp_xpath_lranc",
-      "name": "天天影视(XPath)",
+      "name": "天天影视(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -255,7 +295,7 @@
     },
     {
       "key": "csp_xpath_wpxq",
-      "name": "歪片星球(XPath)",
+      "name": "歪片星球(XP)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -264,18 +304,8 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/waipianxingqiu.json"
     },
     {
-      "key": "csp_xpath_pianku",
-      "name": "片库(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianku.json"
-    },
-    {
       "key": "csp_xpath_jpys",
-      "name": "极品影视(XPath)",
+      "name": "极品影视(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -284,18 +314,8 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/jpys.json"
     },
     {
-      "key": "csp_xpath_pianba",
-      "name": "片吧影院(XPMac)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianba.json"
-    },
-    {
       "key": "csp_xpath_1090",
-      "name": "90影视(XPMac)",
+      "name": "90影视(XP)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -304,74 +324,24 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/90ys.json"
     },
     {
-      "key": "Jumi",
-      "name": "剧迷(XPathMac)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jumi.json"
-    },
-    {
-      "key": "Djx",
-      "name": "瓜皮TV(XPMac)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/guapitv.json"
-    },
-    {
-      "key": "csp_xpath_duboku",
-      "name": "独播库(XPMac)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/duboku.json"
-    },
-    {
-      "key": "csp_xpath_nlyy",
-      "name": "奈落影院(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://wds.ecsxs.com/217623.json"
-    },
-    {
-      "key": "csp_xpath_555",
-      "name": "555(XPathMac)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
-    },
-    {
-      "key": "csp_yinghua",
-      "name": "樱花动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yinghua.json"
-    },
-    {
       "key": "csp_xpath_jykk",
-      "name": "九亿看看(XPathMac)",
+      "name": "9E看看(XP)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/91kk.json"
+    },
+    {
+      "key": "Djx",
+      "name": "瓜皮TV(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/guapitv.json"
     },
     {
       "key": "csp_xpath_mlys",
@@ -385,7 +355,7 @@
     },
     {
       "key": "csp_xpath_6d",
-      "name": "六度(XPath)",
+      "name": "六度(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -395,13 +365,63 @@
     },
     {
       "key": "csp_xpath_qqdy",
-      "name": "七七电影(XPathMac)",
+      "name": "七七电影(XP)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/77dy.json"
+    },
+    {
+      "key": "csp_xpath_nlyy",
+      "name": "奈落影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wds.ecsxs.com/217623.json"
+    },
+    {
+      "key": "csp_xpath_555",
+      "name": "555(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
+    },
+    {
+      "key": "csp_xpath_dm84",
+      "name": "动漫巴士(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dm84.json"
+    },
+    {
+      "key": "csp_yinghua",
+      "name": "樱花动漫(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yinghua.json"
+    },
+    {
+      "key": "csp_xpath_agefans",
+      "name": "Age动漫(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/AGEdongman.json"
     },
     {
       "key": "csp_appys_蜗牛动漫",
@@ -855,433 +875,373 @@
     },
     {
       "key": "csp_appysv2_绿箭影视",
-      "name": "绿箭影视(优)",
+      "name": "绿箭影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "绿箭影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://www.69ty.cc/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_零刻影院",
-      "name": "零刻影院(优)",
+      "name": "零刻影院(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "零刻影院###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://ys.ling00.cn/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_懒猫电影",
-      "name": "懒猫电影(优)",
+      "name": "懒猫电影(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "懒猫电影###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://lanmao.lanmaoymw.cn/ruifenglb_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_蓝猫影院",
-      "name": "蓝猫影院(优)",
+      "name": "蓝猫影院(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "蓝猫影院###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://www.baofu111.top/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_蜜蜂影视",
-      "name": "蜜蜂影视(优)",
+      "name": "蜜蜂影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "蜜蜂影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://app.f8tp.com/lvdou_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_麻瓜视频",
-      "name": "麻瓜视频(优)",
+      "name": "麻瓜视频(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "麻瓜视频###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_木子电影",
-      "name": "木子电影(优)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "木子电影###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_奈非迷",
-      "name": "奈非迷(优)",
+      "name": "奈非迷(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "奈非迷###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://app.netflixmi.com/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_暖光影视",
-      "name": "暖光影视(优)",
+      "name": "暖光影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "暖光影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://app.bl210.com/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_念念影视",
-      "name": "念念影视(优)",
+      "name": "念念影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "念念影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://998.yuanmajs.cn/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_柠柚影视",
-      "name": "柠柚影视(优)",
+      "name": "柠柚影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "柠柚影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://nu.e4tv.cn/lvdou_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_奇怪视频",
-      "name": "奇怪视频(优)",
+      "name": "奇怪视频(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "奇怪视频###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_闪光影视",
-      "name": "闪光影视(优)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "闪光影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://giguai.net/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_思乐影视",
-      "name": "思乐影视(优)",
+      "name": "思乐影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "思乐影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://www.huandian.top/ruifenglb_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_天诚影视",
-      "name": "天诚影视(优)",
+      "name": "天诚影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "天诚影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_星辰视频",
-      "name": "星辰视频(优)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "星辰视频###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://tcspvip.cn/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_兄弟影视",
-      "name": "兄弟影视(优)",
+      "name": "兄弟影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "兄弟影视视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://app.xdys.vip/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_小极影视",
-      "name": "小极影视(优)",
+      "name": "小极影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "小极影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://app.8d8q.com/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_心鸾影视",
-      "name": "心鸾影视(优)",
+      "name": "心鸾影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "心鸾影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://zhiyutv.xyz/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_雪人影视",
-      "name": "雪人影视(优)",
+      "name": "雪人影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "雪人影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://zy.qd234.cn/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_雨果影视",
-      "name": "雨果影视(优)",
+      "name": "雨果影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "雨果影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://2.yhys63.com/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_影视大全",
-      "name": "影视大全(优)",
+      "name": "影视大全(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "影视大全###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://app.okmedcos.com/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_月色影视",
-      "name": "月色影视(优)",
+      "name": "月色影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "月色影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://69ty.cc/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_优视影视",
-      "name": "优视影视(优)",
+      "name": "优视影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "优视影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://app.ysys.asia/lvdou_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_影阅阁",
-      "name": "影阅阁(优)",
+      "name": "影阅阁(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "影阅阁###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://221.236.18.12:665/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_追剧吧",
-      "name": "追剧吧(优)",
+      "name": "追剧吧(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "追剧吧###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://zhuiju8.vip/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_51视频",
-      "name": "51视频(普)",
+      "name": "51视频(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "51视频###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://51shipin.cc/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_JDODO",
-      "name": "JDODO(普)",
+      "name": "JDODO(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "JDODO###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://appys.jdodo.xyz/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_QC影视",
-      "name": "QC影视(普)",
+      "name": "QC影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "QC影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://yss.kkysw.top/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_U5影视",
-      "name": "U5影视(普)",
+      "name": "U5影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "U5影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_XG影视",
-      "name": "XG影视(普)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "XG影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://appx.uy07.com/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_艾特影视",
-      "name": "艾特影视(普)",
+      "name": "艾特影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "艾特影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://www.aitee.cc/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_嗷呜影院",
-      "name": "嗷呜影院(普)",
+      "name": "嗷呜影院(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "嗷呜影院###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://aowu.pro/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_爱影视",
-      "name": "爱影视(普)",
+      "name": "爱影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "爱影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_安云影视",
-      "name": "安云影视(普)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "安云影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://www.hzlff.cn/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_哔哔影院",
-      "name": "哔哔影院(普)",
+      "name": "哔哔影院(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "哔哔影院###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://baofu111.top/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_多啦咪PRO",
-      "name": "多啦咪PRO(普)",
+      "name": "多啦咪PRO(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "多啦咪PRO###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"
     },
     {
       "key": "csp_appysv2_比邻影视",
-      "name": "比邻影视(普)",
+      "name": "比邻影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "比邻影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://0hzy.cn:9990/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_大头影视",
-      "name": "大头影视(普)",
+      "name": "大头影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "大头影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_灯塔影视",
-      "name": "灯塔影视(普)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "灯塔影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://dy.idsao.com/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_豆渣影视",
-      "name": "豆渣影视(普)",
+      "name": "豆渣影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "豆渣影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://douzhayss.cc/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_恒大影视",
-      "name": "恒大影视(普)",
+      "name": "恒大影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "恒大影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://www.hdys.org/api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_寒枫视频",
-      "name": "寒枫视频(普)",
+      "name": "寒枫视频(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "寒枫视频###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_辉哥影视",
