@@ -2524,6 +2524,16 @@
       "ext": "http://tv2.aixixi.vip/api.php/iptv/vod/"
     },
     {
+      "key": "csp_appysv2_猫咪TV",
+      "name": "猫咪TV(IPTV)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://106.12.113.90:6565/api.php/iptv/vod/"
+    },
+    {
       "key": "2A资源",
       "name": "2A资源",
       "type": 0,
@@ -2577,14 +2587,14 @@
       "ext": "https://gitee.com/yuzuonan/picture/raw/master/dandanzan.json"
     },
     {
-      "key": "csp_appysv2_猫咪TV",
-      "name": "猫咪TV(IPTV)",
+      "key": "csp_appysv2_星球影视",
+      "name": "星球影视(M)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://106.12.113.90:6565/api.php/iptv/vod/"
+      "ext": "https://app.lovetv.online/api.php/app/"
     }
   ],
   "lives": [
