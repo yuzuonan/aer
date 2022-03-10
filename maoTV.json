@@ -2301,7 +2301,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "2号币###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://phoebe.cf/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_CV影视",
@@ -2311,27 +2311,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "CV影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_傲视影院",
-      "name": "傲视影院(IPTV)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "傲视影院###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_刺桐影视",
-      "name": "刺桐影视(IPTV)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "刺桐影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://www.cccvvv.top/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_叮当TV",
@@ -2341,7 +2321,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "叮当TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://tv.hyddys.top/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_嘀哩嘀哩",
@@ -2351,17 +2331,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "嘀哩嘀哩###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_大师兄",
-      "name": "大师兄(IPTV)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "大师兄###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "https://api.diliktv.xyz/api.php/Chengcheng/vod/"
     },
     {
       "key": "csp_appysv2_二货影视",
@@ -2371,7 +2341,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "二货影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://d.zjj.life:88/mv/api.php/Chengcheng/vod/"
     },
     {
       "key": "csp_appysv2_非凡影院",
@@ -2381,7 +2351,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "非凡影院###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://cms.feifan12.xyz/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_飞扬TV",
@@ -2391,7 +2361,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "飞扬TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://diancj.zhenfy.cn/api.php/Chengcheng/vod/"
     },
     {
       "key": "csp_appysv2_嘿荼锋",
@@ -2401,7 +2371,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "嘿荼锋###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://tv.hfys8.vip/api.php/Sntv/vod/"
     },
     {
       "key": "csp_appysv2_黑龙影视",
@@ -2411,7 +2381,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "黑龙影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://vip.ji-ding-he.site/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_聚多影视",
@@ -2421,7 +2391,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "聚多影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://jdyy.weetai.cn/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_极品影视",
@@ -2431,7 +2401,17 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "极品影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://jpsb.yhzy.xyz/api.php/iptv/vod/"
+    },
+    {
+      "key": "csp_appysv2_极品影院",
+      "name": "极品影院(IPTV)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://293x.yhzy.xyz/mv/api.php/Chengcheng/vod/"
     },
     {
       "key": "csp_appysv2_乐酷TV",
@@ -2441,7 +2421,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "乐酷TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://103.45.161.138:2021/api.php/Chengcheng/vod/"
     },
     {
       "key": "csp_appysv2_六维影视",
@@ -2451,7 +2431,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "六维影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://liuweiiptv.gq:1357/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_流星雨",
@@ -2461,17 +2441,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "流星雨###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_冷月TV",
-      "name": "冷月TV(IPTV)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "冷月TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://nn.lxyyy.xyz:8/c/api.php/WAiLaowang/vod/"
     },
     {
       "key": "csp_appysv2_荔枝影视",
@@ -2481,17 +2451,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "荔枝影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_免费看TV",
-      "name": "免费看TV(IPTV)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "免费看TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://api.zjys.vip/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_蜜果TV",
@@ -2501,7 +2461,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "蜜果TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://vv.miguotv.net/m/api.php/Chengcheng/vod/"
     },
     {
       "key": "csp_appysv2_米来影视",
@@ -2511,7 +2471,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "米来影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://42.51.37.161:2346/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_米奇TV",
@@ -2521,7 +2481,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "米奇TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://www.s6ep3.top/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_七科影视",
@@ -2531,17 +2491,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "七科影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
-    },
-    {
-      "key": "csp_appysv2_青杏TV",
-      "name": "青杏TV(IPTV)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "青杏TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://tv.7kfm.cn/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_若惜影视",
@@ -2551,7 +2501,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "若惜影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://rxw.ruoxinew.com/api.php/Sntv/vod/"
     },
     {
       "key": "csp_appysv2_思奇TV",
@@ -2561,7 +2511,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "思奇TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://tv.siqitv.vip/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_山楂影视",
@@ -2571,7 +2521,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "山楂影视###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://dy6.dcd1.cn/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_天空TV",
@@ -2581,7 +2531,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "天空TV###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://tv.tkys.tv/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_虾皮视频",
@@ -2591,7 +2541,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "虾皮视频###https://mo-xiao.coding.net/p/c/d/c/git/raw/master/AppYsV2.json"
+      "ext": "http://tv.cmt8.xyz/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_小熊猫TV",
@@ -2601,7 +2551,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "小熊猫TV###http://tv2.hetaoys.vip/api.php/iptv/vod/"
+      "ext": "http://tv2.hetaoys.vip/api.php/iptv/vod/"
     },
     {
       "key": "csp_appysv2_影视阁",
@@ -2611,7 +2561,37 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "影视阁###http://tv2.hetaoys.vip/api.php/iptv/vod/"
+      "ext": "http://216.98.10.85/api.php/iptv/vod/"
+    },
+    {
+      "key": "csp_appysv2_刺桐影视",
+      "name": "刺桐影视(IPTV)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://tv.cttv.vip/api.php/iptv/vod/"
+    },
+    {
+      "key": "csp_appysv2_大师兄",
+      "name": "大师兄(IPTV)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://dsxtv.tv.ci/api.php/dsx/vod/"
+    },
+    {
+      "key": "csp_appysv2_小极TV",
+      "name": "小极TV(IPTV)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://api.8d8q.com/mmv/api.php/Chengcheng/vod/"
     },
     {
       "key": "2A资源",
