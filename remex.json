@@ -524,6 +524,16 @@
       "ext": "http://dd88.icu:6080/xgapp.php/v2/\r\n"
     },
     {
+      "key": "csp_appysv2_jubaibai",
+      "name": "剧白白V2(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://v.pipitu.top/xgapp.php/v2/"
+    },
+    {
       "key": "csp_appysv2_tkys",
       "name": "天空影视(V2)",
       "type": 3,
@@ -572,6 +582,46 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://humaosp.com/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_maozhuays",
+      "name": "猫爪影视(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://www.69ty.cc/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_35ys",
+      "name": "35影视(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://35ys.cc/api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_555dy",
+      "name": "555电影(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://www.555dy5.com/api.php/app/"
+    },
+    {
+      "key": "csp_appysv2_lyys",
+      "name": "琅琊影视(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://fgyuu.top/lehailb_api.php/v1.vod\r\n"
     },
     {
       "key": "csp_appys_爱西西",
@@ -2375,16 +2425,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/picture/raw/master/dandanzan.json"
-    },
-    {
-      "key": "csp_appysv2_555",
-      "name": "555(M)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://35ys.cc/api.php/v1.vod"
     }
   ],
   "lives": [
