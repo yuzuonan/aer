@@ -1831,7 +1831,17 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://js.66app.me/api.php/v1.vod"
+      "ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_段友2影视",
+      "name": "段友影视2(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://shangjihuoke.com/api.php/tv.vod"
     },
     {
       "key": "csp_appysv2_月儿影视",
