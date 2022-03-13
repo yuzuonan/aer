@@ -5492,7 +5492,22 @@
     {
       "name": "瑞丰资源1",
       "type": 1,
-      "url": "https://tv.yjhan.com:4433/json/?url="
+      "url": "https://tv.yjhan.com:4433/json/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "南府追剧1",
@@ -5532,7 +5547,22 @@
     {
       "name": "绿箭影视2",
       "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url="
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "筋斗云",
@@ -5562,7 +5592,22 @@
     {
       "name": "(无名)",
       "type": 1,
-      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url="
+      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "(无名)1",
@@ -5577,7 +5622,22 @@
     {
       "name": "Yoyo1",
       "type": 1,
-      "url": "https://json.legendwhb.cn/json.php/?url="
+      "url": "https://json.legendwhb.cn/json.php/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "优视影视",
@@ -5612,7 +5672,22 @@
     {
       "name": "久九影视",
       "type": 1,
-      "url": "https://json.hfyrw.com/mao.go?url="
+      "url": "https://json.hfyrw.com/mao.go?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "蓝光视频",
@@ -5642,7 +5717,22 @@
     {
       "name": "爱影视",
       "type": 1,
-      "url": "http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url="
+      "url": "http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "黄河影视",
@@ -5652,7 +5742,22 @@
     {
       "name": "Vip影院",
       "type": 1,
-      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=ehklrtxzAFKLMNUXY2&url="
+      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=ehklrtxzAFKLMNUXY2&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "大头影视",
@@ -5672,7 +5777,22 @@
     {
       "name": "菜鸟追剧",
       "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url="
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "片多儿影视",
@@ -5692,7 +5812,22 @@
     {
       "name": "TV酷",
       "type": 1,
-      "url": "http://a.dxzj88.com/jhjson/?url="
+      "url": "http://a.dxzj88.com/jhjson/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "白嫖影视",
@@ -5772,7 +5907,22 @@
     {
       "name": "ko",
       "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url="
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "1",
@@ -5782,7 +5932,22 @@
     {
       "name": "2",
       "type": 1,
-      "url": "https://json.hfyrw.com/mao.go?url="
+      "url": "https://json.hfyrw.com/mao.go?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "3",
@@ -5802,12 +5967,42 @@
     {
       "name": "6",
       "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url="
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "7",
       "type": 1,
-      "url": "http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url="
+      "url": "http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "8",
@@ -5912,147 +6107,582 @@
     {
       "name": "星星52",
       "type": 1,
-      "url": "http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url="
+      "url": "http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星53",
       "type": 1,
-      "url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=dhkmopwCFGIKOQRUX8&url="
+      "url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=dhkmopwCFGIKOQRUX8&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星54",
       "type": 1,
-      "url": "http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url="
+      "url": "http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星55",
       "type": 1,
-      "url": "http://app.renrenmi.cc:3333/api/?key=mtjJAJRXpwT5XAqWnn&url="
+      "url": "http://app.renrenmi.cc:3333/api/?key=mtjJAJRXpwT5XAqWnn&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星56",
       "type": 1,
-      "url": "http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="
+      "url": "http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星57",
       "type": 1,
-      "url": "http://jx.yinliub.cn/home/api?type=ys&uid=512130&key=entyABFQRVYZ014689&url="
+      "url": "http://jx.yinliub.cn/home/api?type=ys&uid=512130&key=entyABFQRVYZ014689&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星58",
       "type": 1,
-      "url": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url="
+      "url": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星59",
       "type": 1,
-      "url": "http://jx.maccms.ren/home/api?type=ys&uid=15959&key=abgisvyzFHJKOSTUW0&url="
+      "url": "http://jx.maccms.ren/home/api?type=ys&uid=15959&key=abgisvyzFHJKOSTUW0&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星60",
       "type": 1,
-      "url": "http://ts.yjhan.com:8090/api/?key=43yVlZDaJg7dYH3DZi&url="
+      "url": "http://ts.yjhan.com:8090/api/?key=43yVlZDaJg7dYH3DZi&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星61",
       "type": 1,
-      "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url="
+      "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星62",
       "type": 1,
-      "url": "http://ts.yjhan.com:8090/api/?key=ZqS8HhnDRUmTBQQfnh&url="
+      "url": "http://ts.yjhan.com:8090/api/?key=ZqS8HhnDRUmTBQQfnh&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星63",
       "type": 1,
-      "url": "http://ts.yjhan.com:8090/api/?key=yNSLsBLOaUkKp2kZ6i&url="
+      "url": "http://ts.yjhan.com:8090/api/?key=yNSLsBLOaUkKp2kZ6i&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星64",
       "type": 1,
-      "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url="
+      "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星65",
       "type": 1,
-      "url": "http://www.cxshare.cc/api/?key=rnYfLNd2efv18yrl2m&url="
+      "url": "http://www.cxshare.cc/api/?key=rnYfLNd2efv18yrl2m&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星66",
       "type": 1,
-      "url": "http://www.mgtv.com.cxshare.cc/api/?key=rnYfLNd2efv18yrl2m&url="
+      "url": "http://www.mgtv.com.cxshare.cc/api/?key=rnYfLNd2efv18yrl2m&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星67",
       "type": 1,
-      "url": "http://www.yyiw.cn/home/api?type=ys&uid=1746003&key=bcopqxADEFHIJRW467&url="
+      "url": "http://www.yyiw.cn/home/api?type=ys&uid=1746003&key=bcopqxADEFHIJRW467&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星68",
       "type": 1,
-      "url": "http://yunhai.lanmaoymw.cn/api/?key=9u3r1BviBqVMs2FtmT&url="
+      "url": "http://yunhai.lanmaoymw.cn/api/?key=9u3r1BviBqVMs2FtmT&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星69",
       "type": 1,
-      "url": "https://2233.yuanmajs.cn/api/?key=p6vpQCno0dPXbX4UQe&url="
+      "url": "https://2233.yuanmajs.cn/api/?key=p6vpQCno0dPXbX4UQe&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星70",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=ghinorsuvBCMOQTY68&url="
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=ghinorsuvBCMOQTY68&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星71",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url="
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星72",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=4614156&key=acdklrzHIMNSUVX245&url="
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=4614156&key=acdklrzHIMNSUVX245&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星73",
       "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=8153438&key=dfjkmopxHJKNXZ2389&url="
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=8153438&key=dfjkmopxHJKNXZ2389&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星74",
       "type": 1,
-      "url": "https://api.qilin.best/home/api?type=ys&uid=2343358&key=cekpsuvxJKNOV34789&url="
+      "url": "https://api.qilin.best/home/api?type=ys&uid=2343358&key=cekpsuvxJKNOV34789&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星75",
       "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=5JQOabvSfe3bRuRcg6&url="
+      "url": "https://cs.024zs.com:4433/api/?key=5JQOabvSfe3bRuRcg6&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星76",
       "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=LGUeur4mGYqAaUN3Zm&url="
+      "url": "https://cs.024zs.com:4433/api/?key=LGUeur4mGYqAaUN3Zm&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星77",
       "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=RMxGLBw1U2J2brQus6&url="
+      "url": "https://cs.024zs.com:4433/api/?key=RMxGLBw1U2J2brQus6&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星78",
       "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=VCDHl8VpAYYG8tpBCt&url="
+      "url": "https://cs.024zs.com:4433/api/?key=VCDHl8VpAYYG8tpBCt&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星79",
       "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=ZGIAzc1y86fEENqYWb&url="
+      "url": "https://cs.024zs.com:4433/api/?key=ZGIAzc1y86fEENqYWb&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星80",
       "type": 1,
-      "url": "https://cs.024zs.com:4433/api/?key=hKzvIMLB7jbWVeLXxw&url="
+      "url": "https://cs.024zs.com:4433/api/?key=hKzvIMLB7jbWVeLXxw&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
     },
     {
       "name": "星星81",
