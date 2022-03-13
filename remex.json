@@ -2475,6 +2475,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/picture/raw/master/dandanzan.json"
+    },
+    {
+      "key": "csp_xpath_cokemv",
+      "name": "Cokemv(XPMac)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/Cokemv.json"
     }
   ],
   "lives": [
