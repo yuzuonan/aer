@@ -404,6 +404,16 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/milaidy.json"
     },
     {
+      "key": "csp_xpath_rxys",
+      "name": "融兴影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/rongxingyingshi.json"
+    },
+    {
       "key": "csp_xpath_6d",
       "name": "六度(XP)",
       "type": 3,
