@@ -284,6 +284,26 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/lezhutv.json"
     },
     {
+      "key": "csp_xpath_348dy",
+      "name": "348电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/348dianying.json"
+    },
+    {
+      "key": "csp_xpath_555",
+      "name": "555(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
+    },
+    {
       "key": "csp_xpath_4kpianku",
       "name": "4k片库网(XP)",
       "type": 3,
@@ -384,16 +404,6 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/milaidy.json"
     },
     {
-      "key": "csp_xpath_Ole",
-      "name": "欧乐(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/olevod.json"
-    },
-    {
       "key": "csp_xpath_6d",
       "name": "六度(XP)",
       "type": 3,
@@ -422,16 +432,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://wds.ecsxs.com/217623.json"
-    },
-    {
-      "key": "csp_xpath_555",
-      "name": "555(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
     },
     {
       "key": "csp_xpath_dm84",
