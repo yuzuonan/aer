@@ -224,16 +224,6 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/jiujiukanpian.json"
     },
     {
-      "key": "csp_xpath_94sm",
-      "name": "94神马(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/94sm"
-    },
-    {
       "key": "csp_xpath_duboku",
       "name": "独播库(XP)",
       "type": 3,
@@ -294,6 +284,16 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/348dianying.json"
     },
     {
+      "key": "csp_xpath_789kp",
+      "name": "789看片(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/348dianying.json"
+    },
+    {
       "key": "csp_xpath_555",
       "name": "555(XP)",
       "type": 3,
@@ -302,6 +302,36 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
+    },
+    {
+      "key": "csp_xpath_jykk",
+      "name": "9E看看(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/91kk.json"
+    },
+    {
+      "key": "csp_xpath_94sm",
+      "name": "94神马(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/94sm"
+    },
+    {
+      "key": "csp_xpath_1090",
+      "name": "90影视(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/90ys.json"
     },
     {
       "key": "csp_xpath_4kpianku",
@@ -364,26 +394,6 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/jpys.json"
     },
     {
-      "key": "csp_xpath_1090",
-      "name": "90影视(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/90ys.json"
-    },
-    {
-      "key": "csp_xpath_jykk",
-      "name": "9E看看(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/91kk.json"
-    },
-    {
       "key": "Djx",
       "name": "瓜皮TV(XP)",
       "type": 3,
@@ -402,16 +412,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/milaidy.json"
-    },
-    {
-      "key": "csp_xpath_789kp",
-      "name": "789看片(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/348dianying.json"
     },
     {
       "key": "csp_xpath_rxys",
