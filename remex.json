@@ -214,16 +214,6 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/yingshigongchan.json"
     },
     {
-      "key": "csp_xpath_jiujiukanpian",
-      "name": "久久影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jiujiukanpian.json"
-    },
-    {
       "key": "csp_xpath_duboku",
       "name": "独播库(XP)",
       "type": 3,
@@ -364,16 +354,6 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/meiju56.json"
     },
     {
-      "key": "csp_xpath_f7spb",
-      "name": "F7搜片(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/F7soupianba.json"
-    },
-    {
       "key": "csp_xpath_zxzj",
       "name": "在线之家(XP)",
       "type": 3,
@@ -392,6 +372,36 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/tiantianys.json"
+    },
+    {
+      "key": "csp_xpath_paopaoshipin",
+      "name": "泡泡视频(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/paopaoshipin.json"
+    },
+    {
+      "key": "csp_xpath_qqdy",
+      "name": "七七电影(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/77dy.json"
+    },
+    {
+      "key": "csp_xpath_jiujiukanpian",
+      "name": "久久影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jiujiukanpian.json"
     },
     {
       "key": "csp_xpath_wpxq",
@@ -462,16 +472,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/6dudy.json"
-    },
-    {
-      "key": "csp_xpath_qqdy",
-      "name": "七七电影(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/77dy.json"
     },
     {
       "key": "csp_xpath_nlyy",
