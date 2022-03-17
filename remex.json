@@ -364,6 +364,16 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/meiju56.json"
     },
     {
+      "key": "csp_xpath_f7spb",
+      "name": "F7搜片(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/F7soupianba.json"
+    },
+    {
       "key": "csp_xpath_zxzj",
       "name": "在线之家(XP)",
       "type": 3,
