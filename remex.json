@@ -1,24 +1,22 @@
 {
   "sites": [
     {
-      "key": "csp_appysv2_追剧达人",
-      "name": "追剧达人(M)",
+      "key": "csp_77",
+      "name": "77(爬虫)",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://vipmv.co/xgapp.php/v1/"
+      "filterable": 1
     },
     {
-      "key": "csp_appys_南府追剧",
-      "name": "南府追剧(M)",
+      "key": "csp_kmys",
+      "name": "酷猫(爬虫)",
       "type": 3,
-      "api": "csp_AppYs",
+      "api": "csp_Kmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://iapp.nfuxs.club/dnmb.php/v1.vod"
+      "filterable": 1
     },
     {
       "key": "csp_appys_美剧虫",
@@ -602,6 +600,26 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_追剧达人",
+      "name": "追剧达人(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://vipmv.co/xgapp.php/v1/"
+    },
+    {
+      "key": "csp_appys_南府追剧",
+      "name": "南府追剧(M)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://iapp.nfuxs.club/dnmb.php/v1.vod"
     },
     {
       "key": "csp_appys_迪迪影院",
@@ -2603,6 +2621,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2626,6 +2646,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2649,6 +2671,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2672,6 +2696,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2685,7 +2711,21 @@
       "ext": {
         "flag": [
           "qq",
-          "腾讯"
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
         ]
       }
     },
@@ -2706,6 +2746,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2729,6 +2771,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2752,6 +2796,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2775,6 +2821,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2798,6 +2846,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2821,6 +2871,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2844,6 +2896,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2867,6 +2921,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2879,16 +2935,22 @@
       "url": "https://jx.300ys.xyz/json/jh.php/?url=",
       "ext": {
         "flag": [
-          "youku",
-          "优酷",
+          "qq",
+          "腾讯",
+          "腾讯视频",
           "qiyi",
           "爱奇艺",
           "奇艺",
-          "renrenmi",
-          "qq",
-          "腾讯",
-          "letv",
-          "乐视"
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
         ]
       }
     },
@@ -2900,11 +2962,20 @@
         "flag": [
           "qq",
           "腾讯",
+          "腾讯视频",
           "qiyi",
           "爱奇艺",
           "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
-          "优酷"
+          "优酷",
+          "优酷视频"
         ]
       }
     },
@@ -2914,7 +2985,22 @@
       "url": "https://www.xinkanke.com/jiexi/go.php?url=",
       "ext": {
         "flag": [
-          "ltnb"
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
         ]
       }
     },
@@ -2926,8 +3012,20 @@
         "flag": [
           "qq",
           "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
           "mgtv",
-          "芒果"
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
         ]
       }
     },
@@ -2948,6 +3046,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2971,6 +3071,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -2994,6 +3096,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
@@ -3017,6 +3121,8 @@
           "mgtv",
           "芒果",
           "芒果TV",
+          "ltnb",
+          "longteng",
           "youku",
           "优酷",
           "优酷视频"
