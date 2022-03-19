@@ -589,7 +589,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://47.97.68.224/api.php/v1.vod"
+      "ext": "http://47.97.68.224/api.php/provide/vod"
     },
     {
       "key": "csp_appys_菜鸟动漫",
