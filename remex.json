@@ -619,7 +619,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
+      "ext": "http://121.62.60.222:13579/xiaobai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_追剧达人",
@@ -640,6 +640,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://iapp.nfuxs.club/dnmb.php/v1.vod"
+    },
+    {
+      "key": "csp_appys_全民影视",
+      "name": "全民影视(V2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api.peoit.com/api/v2/"
     },
     {
       "key": "csp_appys_迪迪影院",
