@@ -582,6 +582,16 @@
       "ext": "http://dongman.k8aa.com/mogai_api.php/v1.vod"
     },
     {
+      "key": "csp_appys_一拳动漫",
+      "name": "一拳动漫(M)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://47.97.68.224/api.php/provide/vod/"
+    },
+    {
       "key": "csp_appys_菜鸟动漫",
       "name": "菜鸟动漫(M)",
       "type": 3,
