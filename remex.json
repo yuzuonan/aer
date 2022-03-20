@@ -232,16 +232,6 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/dashixiong.json"
     },
     {
-      "key": "csp_xpath_pianba",
-      "name": "片吧影院(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianba.json"
-    },
-    {
       "key": "csp_xpath_pianku",
       "name": "片库(XP)",
       "type": 3,
@@ -2545,6 +2535,16 @@
       ]
     },
     {
+      "key": "csp_xpath_chenluoys",
+      "name": "尘落影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/chenluoys.json"
+    },
+    {
       "key": "csp_xpath_dandanzan",
       "name": "蛋蛋赞(XPath)",
       "type": 3,
@@ -2553,6 +2553,116 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/picture/raw/master/dandanzan.json"
+    },
+    {
+      "key": "csp_xpath_dianyingmi",
+      "name": "电影迷(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dianyingmi.json"
+    },
+    {
+      "key": "csp_xpath_dingzidy",
+      "name": "钉子电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dingzidy.json"
+    },
+    {
+      "key": "csp_xpath_fanshuys",
+      "name": "番薯影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/fanshuys.json"
+    },
+    {
+      "key": "csp_xpath_jubaibai",
+      "name": "剧白白(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jubaibai.json"
+    },
+    {
+      "key": "csp_xpath_juhuang",
+      "name": "剧荒(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/juhuang.json"
+    },
+    {
+      "key": "csp_xpath_kuhuisp",
+      "name": "酷绘视频(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/kuhuisp.json"
+    },
+    {
+      "key": "csp_xpath_miaomiaody",
+      "name": "喵喵电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/miaomiaody.json"
+    },
+    {
+      "key": "csp_xpath_mumadi",
+      "name": "木马弟(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/mumadidy.json"
+    },
+    {
+      "key": "csp_xpath_nanfuys",
+      "name": "南府影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/nanfuys.json"
+    },
+    {
+      "key": "csp_xpath_yidongyy",
+      "name": "移动影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yidongyy.json"
+    },
+    {
+      "key": "csp_xpath_zhuijudaren",
+      "name": "追剧达人(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/zhuijudaren.json"
     }
   ],
   "lives": [
