@@ -542,26 +542,6 @@
       "ext": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"
     },
     {
-      "key": "csp_appys_污妖动漫",
-      "name": "污妖动漫(M)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.wyydm.com/api.php/app/"
-    },
-    {
-      "key": "csp_appys_樱花动漫",
-      "name": "樱花动漫(M)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.dmwu.cc/api.php/v1.vod"
-    },
-    {
       "key": "csp_appys_皮皮动漫",
       "name": "皮皮动漫(M)",
       "type": 3,
@@ -580,26 +560,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://dongman.k8aa.com/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "csp_appys_一拳动漫",
-      "name": "一拳动漫(M)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://47.97.68.224/api.php/provide/vod"
-    },
-    {
-      "key": "csp_appys_菜鸟动漫",
-      "name": "菜鸟动漫(M)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://taikong.huangguay.com/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_appysv2_小鸟动漫",
@@ -640,16 +600,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://iapp.nfuxs.club/dnmb.php/v1.vod"
-    },
-    {
-      "key": "csp_appys_全民影视",
-      "name": "全民影视(V2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.peoit.com/api/v2/"
     },
     {
       "key": "csp_appys_迪迪影院",
