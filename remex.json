@@ -19,6 +19,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_xpath_lanmei",
+      "name": "蓝莓影视(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/lanmeiys.json"
+    },
+    {
       "key": "csp_appys_美剧虫",
       "name": "美剧虫(M)",
       "type": 3,
