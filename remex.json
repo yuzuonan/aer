@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "csp_xpath_czspp",
+      "name": "厂长资源(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/changzhangzy.json"
+    },
+    {
       "key": "csp_77",
       "name": "77(爬虫)",
       "type": 3,
@@ -143,7 +153,7 @@
     },
     {
       "key": "Aixixi",
-      "name": "爱西西(P)",
+      "name": "爱西西(XP)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -152,14 +162,24 @@
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/aixixi.json"
     },
     {
-      "key": "Gimy",
-      "name": "Gimy(P)",
+      "key": "csp_xpath_aidiys",
+      "name": "爱迪影视(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/aidiys.json"
+    },
+    {
+      "key": "csp_xpath_Gimy",
+      "name": "GimyTV(XP)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/Gimy.json"
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/gimytv.json"
     },
     {
       "key": "csp_xpath_libv",
@@ -240,6 +260,26 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/xx/raw/main/yingshigongchan.json"
+    },
+    {
+      "key": "csp_xpath_wuguiyy",
+      "name": "乌龟影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/wuguiys.json"
+    },
+    {
+      "key": "csp_xpath_emsdn",
+      "name": "农民影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yuzuonan/xx/raw/main/nongmingys.json"
     },
     {
       "key": "csp_xpath_duboku",
@@ -640,6 +680,26 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://dm.muying.me/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "csp_appysv2_一拳动漫",
+      "name": "一拳动漫(M)",
+      "type": 1,
+      "api": "http://47.97.68.224/api.php/provide/vod/",
+      "playUrl": "http://hz.ltys9.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "嘛哩嘛哩",
+      "name": "嘛哩嘛哩(M)",
+      "type": 1,
+      "api": "https://malimali3.com/api.php/provide/vod/",
+      "playUrl": "https://jx.parwix.com:4433/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "csp_appys_熊猫动漫",
