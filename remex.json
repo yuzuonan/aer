@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/changzhangzy.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/changzhangzy.json?download=false"
     },
     {
       "key": "csp_77",
@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/lanmeiys.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/lanmeiys.json?download=false"
     },
     {
       "key": "csp_appys_美剧虫",
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jumi.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jumi.json?download=false"
     },
     {
       "key": "csp_xpath_juhuang",
@@ -149,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/juhuang.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/juhuang.json?download=false"
     },
     {
       "key": "Aixixi",
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/aixixi.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/aixixi.json?download=false"
     },
     {
       "key": "csp_xpath_aidiys",
@@ -169,17 +169,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/aidiys.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/aidiys.json?download=false"
     },
     {
       "key": "csp_xpath_Gimy",
-      "name": "GimyTV(XP)",
+      "name": "Gimy(XP)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/gimytv.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/gimytv.json?download=false"
     },
     {
       "key": "csp_xpath_libv",
@@ -189,17 +189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/Libvio.json"
-    },
-    {
-      "key": "csp_xpath_subb",
-      "name": "素白白影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/subaibai.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/Libvio.json?download=false"
     },
     {
       "key": "csp_xpath_dmntv",
@@ -212,16 +202,6 @@
       "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"
     },
     {
-      "key": "csp_xpath_saohuo",
-      "name": "骚火电影(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/saohuotv.json"
-    },
-    {
       "key": "csp_xpath_nanfuys",
       "name": "南府影视(XP)",
       "type": 3,
@@ -229,37 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/nanfuys.json"
-    },
-    {
-      "key": "csp_xpath_zhuijudaren",
-      "name": "追剧达人(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/zhuijudaren.json"
-    },
-    {
-      "key": "csp_xpath_ftyy",
-      "name": "饭团影院(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/fantuanTV.json"
-    },
-    {
-      "key": "csp_xpath_影视工厂",
-      "name": "影视工厂(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yingshigongchan.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/nanfuys.json?download=false"
     },
     {
       "key": "csp_xpath_wuguiyy",
@@ -269,277 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/wuguiys.json"
-    },
-    {
-      "key": "csp_xpath_emsdn",
-      "name": "农民影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/nongmingys.json"
-    },
-    {
-      "key": "csp_xpath_duboku",
-      "name": "独播库(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/duboku.json"
-    },
-    {
-      "key": "csp_xpath_tvci",
-      "name": "大师兄(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dashixiong.json"
-    },
-    {
-      "key": "csp_xpath_pianku",
-      "name": "片库(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/pianku.json"
-    },
-    {
-      "key": "csp_xpath_lezhutv",
-      "name": "乐猪TV(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/lezhutv.json"
-    },
-    {
-      "key": "csp_xpath_555",
-      "name": "555(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/555dy.json"
-    },
-    {
-      "key": "csp_xpath_348dy",
-      "name": "348电影(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/348dianying.json"
-    },
-    {
-      "key": "csp_xpath_789kp",
-      "name": "789看片(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/789kanpian.json"
-    },
-    {
-      "key": "csp_xpath_jykk",
-      "name": "9E看看(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/9Eguoyu.json"
-    },
-    {
-      "key": "csp_xpath_94sm",
-      "name": "94神马(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/94sm"
-    },
-    {
-      "key": "csp_xpath_1090",
-      "name": "90影视(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/90ys.json"
-    },
-    {
-      "key": "csp_xpath_jiuzhouys",
-      "name": "9州影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jiuzhouyingshi.json"
-    },
-    {
-      "key": "csp_xpath_4kpianku",
-      "name": "4k片库网(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/4Kpianku.json"
-    },
-    {
-      "key": "csp_xpath_ meiju56",
-      "name": "美剧网(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/meiju56.json"
-    },
-    {
-      "key": "csp_xpath_zxzj",
-      "name": "在线之家(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/zaixianzhijia.json"
-    },
-    {
-      "key": "csp_xpath_lranc",
-      "name": "天天影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/tiantianys.json"
-    },
-    {
-      "key": "csp_xpath_paopaoshipin",
-      "name": "泡泡视频(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/paopaoshipin.json"
-    },
-    {
-      "key": "csp_xpath_miaomiaody",
-      "name": "喵喵电影(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/miaomiaody.json"
-    },
-    {
-      "key": "csp_xpath_qqdy",
-      "name": "七七电影(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/77dy.json"
-    },
-    {
-      "key": "csp_xpath_jiujiukanpian",
-      "name": "久久影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jiujiukanpian.json"
-    },
-    {
-      "key": "csp_xpath_fanshuys",
-      "name": "番薯影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/fanshuys.json"
-    },
-    {
-      "key": "csp_xpath_wpxq",
-      "name": "歪片星球(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/waipianxingqiu.json"
-    },
-    {
-      "key": "csp_xpath_yidongyy",
-      "name": "移动影院(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yidongyy.json"
-    },
-    {
-      "key": "csp_xpath_jpys",
-      "name": "极品影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/jpys.json"
-    },
-    {
-      "key": "csp_xpath_chenluoys",
-      "name": "尘落影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/chenluoys.json"
-    },
-    {
-      "key": "Djx",
-      "name": "瓜皮TV(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/guapitv.json"
-    },
-    {
-      "key": "csp_xpath_mlys",
-      "name": "米来影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/milaidy.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/wuguiys.json?download=false"
     },
     {
       "key": "csp_xpath_rxys",
@@ -549,17 +229,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/rongxingyingshi.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/rongxingyingshi.json?download=false"
     },
     {
-      "key": "csp_xpath_dianyingmi",
-      "name": "电影迷(XP)",
+      "key": "Djx",
+      "name": "瓜皮TV(XP)",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dianyingmi.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/guapitv.json?download=false"
     },
     {
       "key": "csp_xpath_zhuijuwang",
@@ -569,7 +249,337 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/zhuijuwang.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/zhuijuwang.json?download=false"
+    },
+    {
+      "key": "csp_xpath_zhuijudaren",
+      "name": "追剧达人(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/zhuijudaren.json?download=false"
+    },
+    {
+      "key": "csp_xpath_ftyy",
+      "name": "饭团影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/fantuanTV.json?download=false"
+    },
+    {
+      "key": "csp_xpath_影视工厂",
+      "name": "影视工厂(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/yingshigongchan.json?download=false"
+    },
+    {
+      "key": "csp_xpath_subb",
+      "name": "素白白影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/subaibai.json?download=false"
+    },
+    {
+      "key": "csp_xpath_saohuo",
+      "name": "骚火电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/saohuotv.json?download=false"
+    },
+    {
+      "key": "csp_xpath_emsdn",
+      "name": "农民影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/nongmingys.json?download=false"
+    },
+    {
+      "key": "csp_xpath_duboku",
+      "name": "独播库(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/duboku.json?download=false"
+    },
+    {
+      "key": "csp_xpath_tvci",
+      "name": "大师兄(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dashixiong.json?download=false"
+    },
+    {
+      "key": "csp_xpath_pianku",
+      "name": "片库(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/pianku.json?download=false"
+    },
+    {
+      "key": "csp_xpath_lezhutv",
+      "name": "乐猪TV(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/lezhutv.json?download=false"
+    },
+    {
+      "key": "csp_xpath_555",
+      "name": "555(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/555dy.json?download=false"
+    },
+    {
+      "key": "csp_xpath_348dy",
+      "name": "348电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/348dianying.json?download=false"
+    },
+    {
+      "key": "csp_xpath_789kp",
+      "name": "789看片(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/789kanpian.json?download=false"
+    },
+    {
+      "key": "csp_xpath_6d",
+      "name": "6度(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/6dudy.json?download=false"
+    },
+    {
+      "key": "csp_xpath_qqdy",
+      "name": "77电影(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/77dy.json?download=false"
+    },
+    {
+      "key": "csp_xpath_jykk",
+      "name": "9E看看(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/9Eguoyu.json?download=false"
+    },
+    {
+      "key": "csp_xpath_94sm",
+      "name": "94神马(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/94sm?download=false"
+    },
+    {
+      "key": "csp_xpath_1090",
+      "name": "90影视(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/90ys.json?download=false"
+    },
+    {
+      "key": "csp_xpath_jiuzhouys",
+      "name": "9州影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jiuzhouyingshi.json?download=false"
+    },
+    {
+      "key": "csp_xpath_4kpianku",
+      "name": "4k片库网(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/4Kpianku.json?download=false"
+    },
+    {
+      "key": "csp_xpath_ meiju56",
+      "name": "美剧网(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/meiju56.json?download=false"
+    },
+    {
+      "key": "csp_xpath_zxzj",
+      "name": "在线之家(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/zaixianzhijia.json?download=false"
+    },
+    {
+      "key": "csp_xpath_lranc",
+      "name": "天天影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/tiantianys.json?download=false"
+    },
+    {
+      "key": "csp_xpath_paopaoshipin",
+      "name": "泡泡视频(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/paopaoshipin.json?download=false"
+    },
+    {
+      "key": "csp_xpath_miaomiaody",
+      "name": "喵喵电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/miaomiaody.json?download=false"
+    },
+    {
+      "key": "csp_xpath_jiujiukanpian",
+      "name": "久久影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jiujiukanpian.json?download=false"
+    },
+    {
+      "key": "csp_xpath_fanshuys",
+      "name": "番薯影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/fanshuys.json?download=false"
+    },
+    {
+      "key": "csp_xpath_wpxq",
+      "name": "歪片星球(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/waipianxingqiu.json?download=false"
+    },
+    {
+      "key": "csp_xpath_yidongyy",
+      "name": "移动影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/yidongyy.json?download=false"
+    },
+    {
+      "key": "csp_xpath_jpys",
+      "name": "极品影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jpys.json?download=false"
+    },
+    {
+      "key": "csp_xpath_chenluoys",
+      "name": "尘落影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/chenluoys.json?download=false"
+    },
+    {
+      "key": "csp_xpath_mlys",
+      "name": "米来影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/milaidy.json?download=false"
+    },
+    {
+      "key": "csp_xpath_dianyingmi",
+      "name": "电影迷(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dianyingmi.json?download=false"
     },
     {
       "key": "csp_xpath_dingzidy",
@@ -579,7 +589,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dingzidy.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dingzidy.json?download=false"
     },
     {
       "key": "csp_xpath_mumadi",
@@ -589,17 +599,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/mumadidy.json"
-    },
-    {
-      "key": "csp_xpath_6d",
-      "name": "六度(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/6dudy.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/mumadidy.json?download=false"
     },
     {
       "key": "csp_xpath_nlyy",
@@ -619,7 +619,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dm84.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dm84.json?download=false"
     },
     {
       "key": "csp_yinghua",
@@ -629,7 +629,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/yinghua.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/yinghua.json?download=false"
     },
     {
       "key": "csp_xpath_agefans",
@@ -639,7 +639,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/AGEdongman.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/AGEdongman.json?download=false"
     },
     {
       "key": "csp_xpath_dmw",
@@ -649,7 +649,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/dongmandao.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dongmandao.json?download=false"
     },
     {
       "key": "csp_xpath_lumanman",
@@ -659,7 +659,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yuzuonan/xx/raw/main/lumanmandm.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/lumanmandm.json?download=false"
     },
     {
       "key": "csp_appys_蜗牛动漫",
@@ -3238,6 +3238,531 @@
       "name": "x17",
       "type": 1,
       "url": "https://jx.iztyy.com/svip/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X18",
+      "type": 1,
+      "url": "https://vip.legendwhb.cn/m3u8.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X19",
+      "type": 1,
+      "url": "https://video.rongxingvr.cn/dmplayer/jxplayer.php?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X20",
+      "type": 1,
+      "url": "https://nbjx.vip/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X21",
+      "type": 1,
+      "url": "https://sb.5gseo.net/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X22",
+      "type": 1,
+      "url": "https://jx.zui.cm/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X23",
+      "type": 1,
+      "url": "https://bfq.ikuwoo.cn/m3u8.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X24",
+      "type": 1,
+      "url": "http://nnys9.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X25",
+      "type": 1,
+      "url": "https://jx.iiiv.vip/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X26",
+      "type": 1,
+      "url": "https://jx.kupu.cc/json/jxbanyung.php/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X27",
+      "type": 1,
+      "url": " https://jx5.mgtv.co/m3u8.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X28",
+      "type": 1,
+      "url": " https://jx.xxcdm.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X29",
+      "type": 1,
+      "url": "https://m2090.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X30",
+      "type": 1,
+      "url": "https://jxapp.jpysvip.net/m3u8.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X31",
+      "type": 1,
+      "url": " https://panguapi.ntryjd.net/pangu2021/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X32",
+      "type": 1,
+      "url": "  http://xbf.feikuai.vip/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X33",
+      "type": 1,
+      "url": "https://bo.movie06.com/ddplay/play.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X34",
+      "type": 1,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X35",
+      "type": 1,
+      "url": "https://api.jhdyw.vip/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X36",
+      "type": 1,
+      "url": " https://jiexi.zjmiao.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X37",
+      "type": 1,
+      "url": "https://iqiyi.one/dmplay/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "ltnb",
+          "longteng",
+          "youku",
+          "优酷",
+          "优酷视频"
+        ]
+      }
+    },
+    {
+      "name": "X38",
+      "type": 1,
+      "url": " https://x.jisutuku.top/?url=",
       "ext": {
         "flag": [
           "qq",
