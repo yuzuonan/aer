@@ -39,6 +39,26 @@
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/lanmeiys.json?download=false"
     },
     {
+      "key": "csp_xpath_bidiys",
+      "name": "哔嘀影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/bd.json"
+    },
+    {
+      "key": "csp_xpath_qicuishipin",
+      "name": "奇粹视频(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/ikuwoo.json"
+    },
+    {
       "key": "csp_appys_美剧虫",
       "name": "美剧虫(M)",
       "type": 3,
@@ -299,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/saohuotv.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/saohuotv.json"
     },
     {
       "key": "csp_xpath_emsdn",
@@ -349,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/lezhutv.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/lezhutv.json"
     },
     {
       "key": "csp_xpath_555",
@@ -482,6 +502,16 @@
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/tiantianys.json?download=false"
     },
     {
+      "key": "csp_xpath_1010dy",
+      "name": "双十电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/1010.json"
+    },
+    {
       "key": "csp_xpath_paopaoshipin",
       "name": "泡泡视频(XP)",
       "type": 3,
@@ -500,6 +530,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/miaomiaody.json?download=false"
+    },
+    {
+      "key": "csp_xpath_siguys",
+      "name": "思古影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/sigu.json"
     },
     {
       "key": "csp_xpath_jiujiukanpian",
