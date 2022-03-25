@@ -29,6 +29,26 @@
       "filterable": 1
     },
     {
+      "key": "csp_xpath_chuanzhang4k",
+      "name": "船长4K(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%88%B9%E9%95%BF4K.json?download=false"
+    },
+    {
+      "key": "csp_xpath_libv",
+      "name": "Libvio(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/pglblb/xp/raw/master/07-libvio.json"
+    },
+    {
       "key": "csp_xpath_lanmei",
       "name": "蓝莓影视(XP)",
       "type": 3,
@@ -220,16 +240,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/GimyTv.json?download=false"
-    },
-    {
-      "key": "csp_xpath_libv",
-      "name": "Libvio(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/07-libvio.json"
     },
     {
       "key": "csp_xpath_dmntv",
