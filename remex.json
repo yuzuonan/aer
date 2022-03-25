@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/changzhangzy.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json?download=false"
     },
     {
       "key": "csp_77",
@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/lanmeiys.json?download=false"
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lanmei.json"
     },
     {
       "key": "csp_xpath_bidiys",
@@ -50,13 +50,33 @@
     },
     {
       "key": "csp_xpath_qicuishipin",
-      "name": "奇粹视频(XP)",
+      "name": "奇粹影视(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/ikuwoo.json"
+    },
+    {
+      "key": "Djx",
+      "name": "瓜皮TV(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/gp.json"
+    },
+    {
+      "key": "csp_xpath_31ys",
+      "name": "31影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/11-%E4%B8%89%E4%B8%80.json"
     },
     {
       "key": "csp_appys_美剧虫",
@@ -159,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jumi.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%89%A7%E8%BF%B7.json?download=false"
     },
     {
       "key": "csp_xpath_juhuang",
@@ -169,7 +189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/juhuang.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/05-%E5%89%A7%E8%8D%92.json"
     },
     {
       "key": "Aixixi",
@@ -179,7 +199,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/aixixi.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/axx.json"
     },
     {
       "key": "csp_xpath_aidiys",
@@ -189,7 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/aidiys.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/aidi.json"
     },
     {
       "key": "csp_xpath_Gimy",
@@ -199,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/gimytv.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/GimyTv.json?download=false"
     },
     {
       "key": "csp_xpath_libv",
@@ -209,7 +229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/Libvio.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/07-libvio.json"
     },
     {
       "key": "csp_xpath_dmntv",
@@ -219,7 +239,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%81%B5%E7%8B%90%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_nanfuys",
@@ -229,7 +249,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/nanfuys.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8D%97%E5%BA%9C%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_wuguiyy",
@@ -239,7 +259,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/wuguiys.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/wugui.json"
     },
     {
       "key": "csp_xpath_rxys",
@@ -249,17 +269,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/rongxingyingshi.json?download=false"
-    },
-    {
-      "key": "Djx",
-      "name": "瓜皮TV(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/guapitv.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/rx.json"
     },
     {
       "key": "csp_xpath_zhuijuwang",
@@ -269,7 +279,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/zhuijuwang.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/zj883.json"
     },
     {
       "key": "csp_xpath_zhuijudaren",
@@ -279,7 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/zhuijudaren.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.json?download=false"
     },
     {
       "key": "csp_xpath_ftyy",
@@ -289,7 +299,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/fantuanTV.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/fantuan.json"
+    },
+    {
+      "key": "csp_xpath_wuduyy",
+      "name": "武德影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/wd.json"
     },
     {
       "key": "csp_xpath_影视工厂",
@@ -299,7 +319,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/yingshigongchan.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/ysjc.json"
     },
     {
       "key": "csp_xpath_subb",
@@ -309,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/subaibai.json?download=false"
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/subaibai.json"
     },
     {
       "key": "csp_xpath_saohuo",
@@ -329,7 +349,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/nongmingys.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_duboku",
@@ -339,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/duboku.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/duboku.json"
     },
     {
       "key": "csp_xpath_tvci",
@@ -349,17 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dashixiong.json?download=false"
-    },
-    {
-      "key": "csp_xpath_pianku",
-      "name": "片库(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/pianku.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/03-01%E5%A4%A7%E5%B8%88%E5%85%84.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -379,7 +389,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/555dy.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/555.json"
     },
     {
       "key": "csp_xpath_348dy",
@@ -389,7 +399,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/348dianying.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/348.json"
     },
     {
       "key": "csp_xpath_789kp",
@@ -399,7 +409,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/789kanpian.json?download=false"
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/789ba.json"
     },
     {
       "key": "csp_xpath_6d",
@@ -409,7 +419,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/6dudy.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/08-%E5%85%AD%E5%BA%A6tv.json"
     },
     {
       "key": "csp_xpath_qqdy",
@@ -419,7 +429,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/77dy.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/77%E7%94%B5%E5%BD%B1.json?download=false"
     },
     {
       "key": "csp_xpath_jykk",
@@ -429,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/9Eguoyu.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/9e.json"
     },
     {
       "key": "csp_xpath_94sm",
@@ -439,7 +449,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/94sm?download=false"
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/94sm.json"
     },
     {
       "key": "csp_xpath_1090",
@@ -449,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/90ys.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/90%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_jiuzhouys",
@@ -459,7 +469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jiuzhouyingshi.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E4%B9%9D%E5%B7%9E%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_4kpianku",
@@ -469,7 +479,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/4Kpianku.json?download=false"
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/4kpianku.json"
     },
     {
       "key": "csp_xpath_ meiju56",
@@ -479,7 +489,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/meiju56.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%BE%8E%E5%89%A7%E7%BD%91.json?download=false"
+    },
+    {
+      "key": "csp_xpath_pianku",
+      "name": "片库(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/90-%E7%89%87%E5%BA%93.json"
     },
     {
       "key": "csp_xpath_zxzj",
@@ -489,7 +509,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/zaixianzhijia.json?download=false"
+      "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/zxzj.json"
     },
     {
       "key": "csp_xpath_lranc",
@@ -499,7 +519,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/tiantianys.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_1010dy",
@@ -519,7 +539,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/paopaoshipin.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/37-%E6%B3%A1%E6%B3%A1.json#"
     },
     {
       "key": "csp_xpath_miaomiaody",
@@ -529,7 +549,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/miaomiaody.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%96%B5%E5%96%B5%E7%94%B5%E5%BD%B1.json?download=false"
+    },
+    {
+      "key": "csp_xpath_fanshuys",
+      "name": "番薯影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%95%AA%E8%96%AF%E5%BD%B1%E8%A7%86.json?download=false"
+    },
+    {
+      "key": "csp_xpath_wpxq",
+      "name": "歪片星球(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%95%AA%E8%96%AF%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_siguys",
@@ -549,27 +589,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jiujiukanpian.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/06_%E4%B9%85%E4%B9%85%E7%9C%8B%E7%89%87.json"
     },
     {
-      "key": "csp_xpath_fanshuys",
-      "name": "番薯影视(XP)",
+      "key": "csp_xpath_chabeihu",
+      "name": "茶杯狐(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/fanshuys.json?download=false"
-    },
-    {
-      "key": "csp_xpath_wpxq",
-      "name": "歪片星球(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/waipianxingqiu.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/33-%E8%8C%B6%E5%A3%B6%E6%9D%AF.json"
     },
     {
       "key": "csp_xpath_yidongyy",
@@ -579,7 +609,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/yidongyy.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%A7%BB%E5%8A%A8%E5%BD%B1%E9%99%A2.json?download=false"
     },
     {
       "key": "csp_xpath_jpys",
@@ -588,8 +618,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/jpys.json?download=false"
+      "filterable": 1,
+      "ext": "https://gitee.com/xmtin/jsj1024/blob/master/xpath/jpys.json"
     },
     {
       "key": "csp_xpath_chenluoys",
@@ -599,7 +629,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/chenluoys.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%B0%98%E8%90%BD%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_mlys",
@@ -609,7 +639,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/milaidy.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/14-%E7%B1%B3%E6%9D%A5%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_xpath_dianyingmi",
@@ -619,7 +649,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dianyingmi.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%94%B5%E5%BD%B1%E8%BF%B7.json?download=false"
+    },
+    {
+      "key": "csp_xpath_bukaivip",
+      "name": "不开VIP(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/10-%E4%B8%8D%E5%BC%80vip.json"
     },
     {
       "key": "csp_xpath_dingzidy",
@@ -629,7 +669,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dingzidy.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E9%92%89%E5%AD%90%E7%94%B5%E5%BD%B1.json?download=false"
     },
     {
       "key": "csp_xpath_mumadi",
@@ -639,7 +679,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/mumadidy.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E6%9C%A8%E5%A4%B4%E4%BA%BA.json?download=false"
     },
     {
       "key": "csp_xpath_nlyy",
@@ -649,7 +689,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://wds.ecsxs.com/217623.json"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%A5%88%E8%90%BD%E5%BD%B1%E9%99%A2.json?download=false"
     },
     {
       "key": "csp_xpath_dm84",
@@ -659,7 +699,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dm84.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/22-%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
     },
     {
       "key": "csp_yinghua",
@@ -669,7 +709,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/yinghua.json?download=false"
+      "ext": "https://gitee.com/yingshimao/ziyuan/raw/master/myshi/21-%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "csp_xpath_agefans",
@@ -679,7 +719,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/AGEdongman.json?download=false"
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/agefans.json"
     },
     {
       "key": "csp_xpath_dmw",
@@ -689,7 +729,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/dongmandao.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8A%A8%E6%BC%AB%E5%B2%9B.json?download=false"
     },
     {
       "key": "csp_xpath_lumanman",
@@ -699,7 +739,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/lumanmandm.json?download=false"
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%8A%A8%E6%BC%AB.json?download=false"
     },
     {
       "key": "csp_appys_蜗牛动漫",
