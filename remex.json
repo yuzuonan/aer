@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "csp_xpath_dadagui",
+      "name": "达达龟(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dadagui.json"
+    },
+    {
       "key": "csp_xpath_czspp",
       "name": "厂长资源(XP)",
       "type": 3,
@@ -232,6 +242,16 @@
       "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/aidi.json"
     },
     {
+      "key": "csp_xpath_Auete",
+      "name": "Auete(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/pglblb/xp/raw/master/62-%e5%a5%a5%e7%89%b9%e5%bd%b1%e8%a7%86.js"
+    },
+    {
       "key": "csp_xpath_Gimy",
       "name": "Gimy(XP)",
       "type": 3,
@@ -259,7 +279,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8D%97%E5%BA%9C%E5%BD%B1%E8%A7%86.json?download=false"
+      "ext": "https://notabug.org/pglblb/xp/raw/master/56-%e5%8d%97%e5%ba%9c%e5%bd%b1%e8%a7%86.json"
     },
     {
       "key": "csp_xpath_wuguiyy",
@@ -280,6 +300,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/xmtin/jsj1024/raw/master/xpath/rx.json"
+    },
+    {
+      "key": "csp_xpath_dadatu",
+      "name": "达达兔(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/pglblb/xp/raw/master/30-%e8%be%be%e8%be%be%e5%85%94.js"
     },
     {
       "key": "csp_xpath_zhuijuwang",
