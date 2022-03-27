@@ -212,6 +212,16 @@
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
+      "key": "csp_xpath_qicuishipin",
+      "name": "奇粹影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/baddychen/xpath/raw/master/ikuwoo.json"
+    },
+    {
       "key": "csp_xpath_aidiys",
       "name": "爱迪影视(XP)",
       "type": 3,
@@ -400,6 +410,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json?download=false"
+    },
+    {
+      "key": "csp_xpath_wnvod",
+      "name": "万能影视(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hstsws008/dizhi/-/raw/main/Ext/wnvod.json"
     },
     {
       "key": "csp_xpath_subb",
@@ -2793,16 +2813,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/yuzuonan/picture/raw/master/dandanzan.json"
-    },
-    {
-      "key": "csp_xpath_qicuishipin",
-      "name": "奇粹影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%A5%87%E7%B2%B9%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_555",
