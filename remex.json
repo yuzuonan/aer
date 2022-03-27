@@ -11,26 +11,6 @@
       "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dadagui.json"
     },
     {
-      "key": "csp_xpath_wuguiyy",
-      "name": "乌龟影院(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E8%A7%86.json?download=false"
-    },
-    {
-      "key": "csp_xpath_czspp",
-      "name": "厂长资源(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json?download=false"
-    },
-    {
       "key": "csp_77",
       "name": "77(爬虫)",
       "type": 3,
@@ -49,82 +29,12 @@
       "filterable": 1
     },
     {
-      "key": "csp_xpath_chuanzhang4k",
-      "name": "船长4K(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%88%B9%E9%95%BF4K.json?download=false"
-    },
-    {
-      "key": "csp_xpath_libv",
-      "name": "Libvio(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/Libvio.json?download=false"
-    },
-    {
-      "key": "csp_xpath_lanmei",
-      "name": "蓝莓影视(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lanmei.json"
-    },
-    {
-      "key": "csp_xpath_bidiys",
-      "name": "哔嘀影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json?download=false"
-    },
-    {
-      "key": "csp_xpath_qicuishipin",
-      "name": "奇粹影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%A5%87%E7%B2%B9%E5%BD%B1%E8%A7%86.json?download=false"
-    },
-    {
-      "key": "Djx",
-      "name": "瓜皮TV(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%93%9C%E7%9A%AETV.json?download=false"
-    },
-    {
-      "key": "csp_xpath_31ys",
-      "name": "31影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/31%E5%BD%B1%E8%A7%86.json?download=false"
-    },
-    {
       "key": "csp_appys_美剧虫",
       "name": "美剧虫(M)",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "https://meijuchong.com/api.php/v1.vod"
     },
@@ -208,8 +118,188 @@
       "type": 3,
       "api": "csp_Juhi",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Djx",
+      "name": "瓜皮TV(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%93%9C%E7%9A%AETV.json?download=false"
+    },
+    {
+      "key": "csp_xpath_31ys",
+      "name": "31影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/31%E5%BD%B1%E8%A7%86.json?download=false"
+    },
+    {
+      "key": "csp_xpath_wuguiyy",
+      "name": "乌龟影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E8%A7%86.json?download=false"
+    },
+    {
+      "key": "csp_xpath_czspp",
+      "name": "厂长资源(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json?download=false"
+    },
+    {
+      "key": "csp_xpath_lanmei",
+      "name": "蓝莓影视(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lanmei.json"
+    },
+    {
+      "key": "csp_xpath_Auete",
+      "name": "Auete(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/Auete.json?download=false"
+    },
+    {
+      "key": "csp_xpath_libv",
+      "name": "Libvio(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/Libvio.json?download=false"
+    },
+    {
+      "key": "csp_xpath_Gimy",
+      "name": "Gimy(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/GimyTv.json?download=false"
+    },
+    {
+      "key": "csp_xpath_qicuishipin",
+      "name": "奇粹影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%A5%87%E7%B2%B9%E5%BD%B1%E8%A7%86.json?download=false"
+    },
+    {
+      "key": "csp_xpath_bidiys",
+      "name": "哔嘀影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json?download=false"
+    },
+    {
+      "key": "csp_xpath_aidiys",
+      "name": "爱迪影视(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%88%B1%E8%BF%AA%E5%BD%B1%E8%A7%86.json?download=false"
+    },
+    {
+      "key": "Aixixi",
+      "name": "爱西西(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%88%B1%E8%A5%BF%E8%A5%BF.json?download=false"
+    },
+    {
+      "key": "csp_xpath_saohuo",
+      "name": "骚火电影(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?download=false"
+    },
+    {
+      "key": "csp_xpath_zhuijudaren",
+      "name": "追剧达人(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.json?download=false"
+    },
+    {
+      "key": "csp_xpath_ftyy",
+      "name": "饭团影院(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E9%A5%AD%E5%9B%A2TV.json?download=false"
+    },
+    {
+      "key": "csp_xpath_nanfuys",
+      "name": "南府影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8D%97%E5%BA%9C%E5%BD%B1%E8%A7%86.json?download=false"
+    },
+    {
+      "key": "csp_xpath_chuanzhang4k",
+      "name": "船长4K(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%88%B9%E9%95%BF4K.json?download=false"
+    },
+    {
+      "key": "csp_xpath_jbb",
+      "name": "剧白白(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/jubaibai.json"
     },
     {
       "key": "Jumi",
@@ -232,46 +322,6 @@
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%89%A7%E8%8D%92.json?download=false"
     },
     {
-      "key": "Aixixi",
-      "name": "爱西西(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%88%B1%E8%A5%BF%E8%A5%BF.json?download=false"
-    },
-    {
-      "key": "csp_xpath_aidiys",
-      "name": "爱迪影视(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%88%B1%E8%BF%AA%E5%BD%B1%E8%A7%86.json?download=false"
-    },
-    {
-      "key": "csp_xpath_Auete",
-      "name": "Auete(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/Auete.json?download=false"
-    },
-    {
-      "key": "csp_xpath_Gimy",
-      "name": "Gimy(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/GimyTv.json?download=false"
-    },
-    {
       "key": "csp_xpath_dmntv",
       "name": "狐灵影视(XP)",
       "type": 3,
@@ -280,16 +330,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E7%81%B5%E7%8B%90%E5%BD%B1%E8%A7%86.json?download=false"
-    },
-    {
-      "key": "csp_xpath_nanfuys",
-      "name": "南府影视(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E5%8D%97%E5%BA%9C%E5%BD%B1%E8%A7%86.json?download=false"
     },
     {
       "key": "csp_xpath_rxys",
@@ -322,26 +362,6 @@
       "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%BF%BD%E5%89%A7%E7%BD%91.json?download=false"
     },
     {
-      "key": "csp_xpath_zhuijudaren",
-      "name": "追剧达人(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.json?download=false"
-    },
-    {
-      "key": "csp_xpath_ftyy",
-      "name": "饭团影院(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E9%A5%AD%E5%9B%A2TV.json?download=false"
-    },
-    {
       "key": "csp_xpath_wuduyy",
       "name": "武德影院(XP)",
       "type": 3,
@@ -370,16 +390,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/subaibai.json"
-    },
-    {
-      "key": "csp_xpath_saohuo",
-      "name": "骚火电影(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yuzuonan.coding.net/p/saber/d/XX/git/raw/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?download=false"
     },
     {
       "key": "csp_xpath_emsdn",
