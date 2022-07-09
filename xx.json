@@ -1,56 +1,6 @@
 {
   "sites": [
-    {
-      "key": "蜗牛",
-      "name": "蜗牛",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw-gh.gcdn.mirr.one/yuzuonan/xx/main/%E8%9C%97%E7%89%9B.json"
-    },
-    {
-      "key": "F33",
-      "name": "F33",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw-gh.gcdn.mirr.one/yuzuonan/xx/main/F33.json"
-    },
-    {
-      "key": "2024xxj",
-      "name": "2024xxj",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw-gh.gcdn.mirr.one/yuzuonan/xx/main/xxx.json"
-    },
-    {
-      "key": "粉PAPA",
-      "name": "粉PAPA",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw-gh.gcdn.mirr.one/yuzuonan/xx/main/粉PAPA.json"
-    },
-    {
-      "key": "GAOAA",
-      "name": "GAOAA",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw-gh.gcdn.mirr.one/yuzuonan/xx/main/GAOAA.json"
-    },
-    {
+   {
       "key": "csp_xpath_扛把子影院",
       "name": "扛把子影院(xpf)",
       "type": 3,
