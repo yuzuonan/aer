@@ -1397,7 +1397,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaXR2bGlzdC96Yi9yYXcvYnJhbmNoL21haW4veHpkeDA1L3h4eDA3MDgudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL3l1enVvbmFuL3JlbWV4Ly0vcmF3L21hc3Rlci9YVFYudHh0"
           ]
         }
       ]
