@@ -754,6 +754,56 @@
       "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/蓝光影院.json"
     },
     {
+      "key": "csp_biubiu_UM电影",
+      "name": "UM电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/yuzuonan/remex/-/raw/master/XB/UM%E7%94%B5%E5%BD%B1.json"
+    },
+    {
+      "key": "csp_biubiu_1920",
+      "name": "1920(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/yuzuonan/remex/-/raw/master/XB/1920.json"
+    },
+    {
+      "key": "csp_biubiu_555",
+      "name": "555(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/yuzuonan/remex/-/raw/master/XB/555.json"
+    },
+    {
+      "key": "csp_biubiu_搜狗影院",
+      "name": "搜狗影院(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/yuzuonan/remex/-/raw/master/XB/%E6%90%9C%E7%8B%97%E5%BD%B1%E9%99%A2.json"
+    },
+    {
+      "key": "csp_biubiu_中国电影",
+      "name": "中国电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitlab.com/yuzuonan/remex/-/raw/master/XB/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1.json"
+    },
+    {
       "key": "csp_biubiu_300看世界",
       "name": "300看世界(XB)",
       "type": 3,
